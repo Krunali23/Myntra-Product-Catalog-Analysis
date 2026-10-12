@@ -64,6 +64,25 @@ These observations describe the dataset analyzed and should not be interpreted a
 - Jupyter Notebook
 - GitHub
 
+  ## 📁 Project Structure
+
+```text
+Myntra-Product-Catalog-Analysis/
+│
+├── README.md
+│
+├── EDA-Part-1/
+│   ├── README.md
+│   ├── Myntra_EDA.ipynb
+│   └── Myntra_EDA_Presentation.ppt
+│
+├── SQL-Part-2/
+├── Excel-Part-3/
+├── Power-BI-Part-4/
+├── Python-Part-5/
+└── Machine-Learning-Part-6/
+```
+
 **Planned additions**
 
 - SQL
