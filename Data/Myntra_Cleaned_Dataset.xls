@@ -1,0 +1,1501 @@
+Product_ID,Product_Name,Brand,Gender,Category,Sub_Category,MRP,Selling_Price,Discount_Pct,Rating,Rating_Count
+MYN00001,Nike Men Running Shoes,Nike,Men,Footwear,Sports Shoes,5999.0,4199.0,30,4.4,1250.0
+MYN00002,Adidas Women Training Shoes,Adidas,Women,Footwear,Sports Shoes,5499.0,3849.0,30,4.3,980.0
+MYN00003,Puma Men Solid T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,3415.0
+MYN00004,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2499.0,1499.0,40,4.5,870.0
+MYN00005,Biba Women Embroidered Kurti,Biba,Women,Clothing,Kurtis,2999.0,1799.0,40,4.4,1240.0
+MYN00006,Manyavar Men Embroidered Sherwani,Manyavar,Men,Clothing,Sherwanis,8999.0,6299.0,30,4.6,520.0
+MYN00007,Skechers Women Walking Shoes,Skechers,Women,Footwear,Walking Shoes,6999.0,4549.0,35,4.5,2100.0
+MYN00008,Wrogn Men Checked Casual Shirt,Wrogn,Men,Clothing,Shirts,2499.0,1374.0,45,4.1,760.0
+MYN00009,Levis Women Slim Fit Jeans,Levis,Women,Clothing,Jeans,3999.0,2399.0,40,4.3,1820.0
+MYN00010,HRX Men Training Track Pants,HRX,Men,Clothing,Track Pants,2299.0,1379.0,40,4.2,640.0
+MYN00011,Adidas Men Sports Shoes,Adidas,Men,Footwear,Sports Shoes,6499.0,4549.0,30,4.5,3240.0
+MYN00012,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,3999.0,2399.0,40,4.3,930.0
+MYN00013,Puma Women Sports Bra,Puma,Women,Clothing,Sports Bras,1799.0,1079.0,40,4.1,520.0
+MYN00014,Manyavar Men Textured Waistcoat,Manyavar,Men,Clothing,Waistcoats,3499.0,2449.0,30,4.5,410.0
+MYN00015,Nike Women Running Sneakers,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.6,2890.0
+MYN00016,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3499.0,2099.0,40,4.4,760.0
+MYN00017,Puma Men Casual Sneakers,Puma,Men,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,1180.0
+MYN00018,Aurelia Women Straight Kurti,Aurelia,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,680.0
+MYN00019,Reebok Men Printed T-Shirt,Reebok,Men,Clothing,T-Shirts,1799.0,1079.0,40,4.1,950.0
+MYN00020,H&M Women Floral Dress,H&M,Women,Clothing,Dresses,2999.0,1799.0,40,4.4,1430.0
+MYN00021,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,7999.0,5599.0,30,4.6,3415.0
+MYN00022,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,730.0
+MYN00023,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2299.0,1609.0,30,4.3,820.0
+MYN00024,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,670.0
+MYN00025,Fabindia Women Printed Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,590.0
+MYN00026,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3499.0,1924.0,45,4.1,1120.0
+MYN00027,Max Women Regular Fit Top,Max,Women,Clothing,Tops,1499.0,899.0,40,4.0,420.0
+MYN00028,New Balance Men Casual Shoes,New Balance,Men,Footwear,Casual Shoes,7499.0,5249.0,30,4.5,1730.0
+MYN00029,Skechers Men Comfort Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6499.0,4224.0,35,4.4,2460.0
+MYN00030,Libas Women A-Line Ethnic Dress,Libas,Women,Clothing,Ethnic Dresses,2999.0,1799.0,40,4.2,510.0
+MYN00031,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2799.0,1959.0,30,4.3,850.0
+MYN00032,Biba Women Straight Kurti,Biba,Women,Clothing,Kurtis,2399.0,1439.0,40,4.4,920.0
+MYN00033,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2499.0,1749.0,30,4.5,1160.0
+MYN00034,Puma Women Casual Shoes,Puma,Women,Footwear,Casual Shoes,3999.0,2399.0,40,4.2,890.0
+MYN00035,Levis Men Tapered Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.3,2140.0
+MYN00036,H&M Men Regular Fit Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,670.0
+MYN00037,Adidas Men Training Shoes,Adidas,Men,Footwear,Sports Shoes,5999.0,4199.0,30,4.5,2210.0
+MYN00038,Biba Women Ethnic Kurta Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.6,1320.0
+MYN00039,Libas Women Solid Palazzos,Libas,Women,Clothing,Palazzos,1799.0,1079.0,40,4.2,380.0
+MYN00040,Wrogn Men Casual Trousers,Wrogn,Men,Clothing,Trousers,2799.0,1539.0,45,4.0,540.0
+MYN00041,HRX Women Running Shoes,HRX,Women,Footwear,Sports Shoes,3999.0,2399.0,40,4.2,610.0
+MYN00042,Reebok Women Training Track Pants,Reebok,Women,Clothing,Track Pants,2299.0,1379.0,40,4.3,720.0
+MYN00043,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,3140.0
+MYN00044,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.5,780.0
+MYN00045,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2499.0,1499.0,40,4.4,630.0
+MYN00046,Levis Women Denim Jacket,Levis,Women,Clothing,Jackets,3999.0,2399.0,40,4.2,930.0
+MYN00047,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1799.0,1079.0,40,4.0,490.0
+MYN00048,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3299.0,1814.0,45,4.1,840.0
+MYN00049,Nike Women Sports T-Shirt,Nike,Women,Clothing,T-Shirts,2299.0,1379.0,40,4.5,1740.0
+MYN00050,Puma Men Sports Shorts,Puma,Men,Clothing,Sports Shorts,1699.0,1019.0,40,4.2,610.0
+MYN00051,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2750.0
+MYN00052,Skechers Men Casual Shoes,Skechers,Men,Footwear,Casual Shoes,6999.0,4549.0,35,4.4,1680.0
+MYN00053,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2399.0,1439.0,40,4.3,720.0
+MYN00054,Biba Women Printed Palazzos,Biba,Women,Clothing,Palazzos,1999.0,1199.0,40,4.1,430.0
+MYN00055,Manyavar Men Ethnic Kurta Set,Manyavar,Men,Clothing,Ethnic Sets,4499.0,3149.0,30,4.6,960.0
+MYN00056,Peter England Men Slim Fit Trousers,Peter England,Men,Clothing,Trousers,2799.0,1959.0,30,4.3,810.0
+MYN00057,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,2999.0,2099.0,30,4.2,450.0
+MYN00058,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,820.0
+MYN00059,Reebok Men Casual Shoes,Reebok,Men,Footwear,Casual Shoes,4999.0,2999.0,40,4.2,1340.0
+MYN00060,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,6999.0,4899.0,30,4.6,2050.0
+MYN00061,Nike Men Cotton T-Shirt,Nike,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.4,3120.0
+MYN00062,Libas Women Straight Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.3,540.0
+MYN00063,Biba Women Embroidered Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN00064,Puma Men Running Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1920.0
+MYN00065,HRX Men Solid Sports Shorts,HRX,Men,Clothing,Sports Shorts,1599.0,959.0,40,4.1,390.0
+MYN00066,Adidas Men Track Pants,Adidas,Men,Clothing,Track Pants,2499.0,1499.0,40,4.4,1280.0
+MYN00067,Wrogn Men Slim Fit Jeans,Wrogn,Men,Clothing,Jeans,3999.0,2199.0,45,4.0,680.0
+MYN00068,Roadster Women Printed T-Shirt,Roadster,Women,Clothing,T-Shirts,1699.0,934.0,45,4.2,910.0
+MYN00069,Levis Men Denim Jacket,Levis,Men,Clothing,Jackets,4999.0,2999.0,40,4.5,1150.0
+MYN00070,Fabindia Women Ethnic Kurta Set,Fabindia,Women,Clothing,Ethnic Sets,4999.0,2999.0,40,4.4,610.0
+MYN00071,Skechers Women Sports Shoes,Skechers,Women,Footwear,Sports Shoes,7999.0,5199.0,35,4.6,3415.0
+MYN00072,ASICS Men Track Pants,ASICS,Men,Clothing,Track Pants,2999.0,2099.0,30,4.3,490.0
+MYN00073,Puma Women Printed T-Shirt,Puma,Women,Clothing,T-Shirts,1999.0,1199.0,40,4.2,1120.0
+MYN00074,Biba Women Cotton Kurta,Biba,Women,Clothing,Kurtas,2299.0,1379.0,40,4.4,870.0
+MYN00075,Manyavar Men Wedding Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,320.0
+MYN00076,Nike Women Training Track Pants,Nike,Women,Clothing,Track Pants,2799.0,1679.0,40,4.3,760.0
+MYN00077,Adidas Men Casual Sneakers,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1470.0
+MYN00078,Libas Women Printed Ethnic Dress,Libas,Women,Clothing,Ethnic Dresses,3199.0,1919.0,40,4.2,390.0
+MYN00079,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,980.0
+MYN00080,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.4,720.0
+MYN00081,H&M Men Slim Fit Jeans,H&M,Men,Clothing,Jeans,2999.0,1799.0,40,4.2,1320.0
+MYN00082,Max Women Printed Dress,Max,Women,Clothing,Dresses,2499.0,1499.0,40,4.1,670.0
+MYN00083,Van Heusen Men Formal Shirt,Van Heusen,Men,Clothing,Shirts,2499.0,1749.0,30,4.4,830.0
+MYN00084,Aurelia Women Ethnic Kurta Set,Aurelia,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,520.0
+MYN00085,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,7999.0,5599.0,30,4.6,2630.0
+MYN00086,HRX Women Training Track Pants,HRX,Women,Clothing,Track Pants,2299.0,1379.0,40,4.2,580.0
+MYN00087,Levis Women Straight Fit Jeans,Levis,Women,Clothing,Jeans,3999.0,2399.0,40,4.5,1970.0
+MYN00088,Roadster Men Printed T-Shirt,Roadster,Men,Clothing,T-Shirts,1599.0,879.0,45,4.0,750.0
+MYN00089,Fabindia Men Printed Kurta,Fabindia,Men,Clothing,Kurtas,2999.0,1799.0,40,4.5,470.0
+MYN00090,Puma Women Casual Shoes,Puma,Women,Footwear,Casual Shoes,3999.0,2399.0,40,4.1,610.0
+MYN00091,Adidas Women Sports T-Shirt,Adidas,Women,Clothing,T-Shirts,2299.0,1379.0,40,4.4,1560.0
+MYN00092,Biba Women Straight Kurta,Biba,Women,Clothing,Kurtas,2599.0,1559.0,40,4.5,1080.0
+MYN00093,Manyavar Men Textured Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4499.0,3149.0,30,4.6,420.0
+MYN00094,Skechers Men Sports Shoes,Skechers,Men,Footwear,Sports Shoes,7999.0,5199.0,35,4.5,3280.0
+MYN00095,Nike Men Casual Shoes,Nike,Men,Footwear,Casual Shoes,6499.0,4549.0,30,4.4,1820.0
+MYN00096,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1899.0,1139.0,40,4.2,340.0
+MYN00097,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,520.0
+MYN00098,H&M Women Regular Fit Jeans,H&M,Women,Clothing,Jeans,2999.0,1799.0,40,4.3,1420.0
+MYN00099,Peter England Men Blazer,Peter England,Men,Clothing,Blazers,5999.0,4199.0,30,4.5,310.0
+MYN00100,Fabindia Women Cotton Kurta,Fabindia,Women,Clothing,Kurtas,2799.0,1679.0,40,4.4,690.0
+MYN00101,Nike Men Sports Shoes,Nike,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2150.0
+MYN00102,Adidas Women Casual Shoes,Adidas,Women,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,870.0
+MYN00103,Puma Men Training Track Pants,Puma,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,630.0
+MYN00104,Libas Women Cotton Kurta,Libas,Women,Clothing,Kurtas,2299.0,1379.0,40,4.4,720.0
+MYN00105,Biba Women A-Line Kurti,Biba,Women,Clothing,Kurtis,2799.0,1679.0,40,4.3,960.0
+MYN00106,Manyavar Men Solid Kurta,Manyavar,Men,Clothing,Kurtas,2299.0,1609.0,30,4.4,540.0
+MYN00107,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1540.0
+MYN00108,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.1,690.0
+MYN00109,Levis Women Denim Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.4,1830.0
+MYN00110,HRX Men Sports T-Shirt,HRX,Men,Clothing,T-Shirts,1699.0,1019.0,40,4.2,810.0
+MYN00111,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7999.0,5599.0,30,4.6,3415.0
+MYN00112,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,1180.0
+MYN00113,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2399.0,1439.0,40,4.2,560.0
+MYN00114,Manyavar Men Ethnic Waistcoat,Manyavar,Men,Clothing,Waistcoats,3999.0,2799.0,30,4.5,430.0
+MYN00115,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.6,2670.0
+MYN00116,Libas Women Printed Kurta Set,Libas,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,820.0
+MYN00117,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,3999.0,2399.0,40,4.1,910.0
+MYN00118,Aurelia Women Printed Kurti,Aurelia,Women,Clothing,Kurtis,2299.0,1379.0,40,4.3,610.0
+MYN00119,Reebok Men Training T-Shirt,Reebok,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,840.0
+MYN00120,H&M Women Printed Top,H&M,Women,Clothing,Tops,1599.0,959.0,40,4.1,780.0
+MYN00121,ASICS Men Sports Shoes,ASICS,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.7,3415.0
+MYN00122,Adidas Women Training Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,710.0
+MYN00123,Peter England Men Formal Trousers,Peter England,Men,Clothing,Trousers,2899.0,2029.0,30,4.4,620.0
+MYN00124,Van Heusen Men Formal Shirt,Van Heusen,Men,Clothing,Shirts,2699.0,1889.0,30,4.5,940.0
+MYN00125,Fabindia Women Printed Kurta,Fabindia,Women,Clothing,Kurtas,2999.0,1799.0,40,4.4,570.0
+MYN00126,Roadster Men Casual Jacket,Roadster,Men,Clothing,Jackets,3999.0,2199.0,45,4.1,990.0
+MYN00127,Max Women Printed Top,Max,Women,Clothing,Tops,1299.0,779.0,40,4.0,360.0
+MYN00128,New Balance Men Sports Shoes,New Balance,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.6,1920.0
+MYN00129,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7499.0,4874.0,35,4.4,2390.0
+MYN00130,Libas Women Printed Dress,Libas,Women,Clothing,Ethnic Dresses,3299.0,1979.0,40,4.2,460.0
+MYN00131,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,2999.0,1799.0,40,4.3,920.0
+MYN00132,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.4,850.0
+MYN00133,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2699.0,1889.0,30,4.5,1030.0
+MYN00134,Puma Women Sports Shoes,Puma,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.2,1260.0
+MYN00135,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,3999.0,2399.0,40,4.4,2360.0
+MYN00136,H&M Men Cotton Shirt,H&M,Men,Clothing,Shirts,2199.0,1319.0,40,4.1,690.0
+MYN00137,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.5,1540.0
+MYN00138,Biba Women Printed Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4299.0,2579.0,40,4.5,1110.0
+MYN00139,Libas Women Straight Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,420.0
+MYN00140,Wrogn Men Slim Fit Trousers,Wrogn,Men,Clothing,Trousers,2999.0,1649.0,45,4.0,570.0
+MYN00141,HRX Women Sports Shoes,HRX,Women,Footwear,Sports Shoes,4499.0,2699.0,40,4.3,710.0
+MYN00142,Reebok Women Training T-Shirt,Reebok,Women,Clothing,T-Shirts,1899.0,1139.0,40,4.2,680.0
+MYN00143,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.6,3010.0
+MYN00144,Manyavar Men Textured Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,390.0
+MYN00145,Fabindia Men Printed Kurta,Fabindia,Men,Clothing,Kurtas,2799.0,1679.0,40,4.3,570.0
+MYN00146,Levis Women Casual Jacket,Levis,Women,Clothing,Jackets,4499.0,2699.0,40,4.3,870.0
+MYN00147,Max Men Printed Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,520.0
+MYN00148,Roadster Women Denim Jacket,Roadster,Women,Clothing,Jackets,3799.0,2089.0,45,4.1,910.0
+MYN00149,Nike Women Cotton T-Shirt,Nike,Women,Clothing,T-Shirts,1999.0,1199.0,40,4.5,1650.0
+MYN00150,Puma Men Training Shorts,Puma,Men,Clothing,Sports Shorts,1799.0,1079.0,40,4.2,580.0
+MYN00151,Adidas Women Sports Shoes,Adidas,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2820.0
+MYN00152,Skechers Men Casual Sneakers,Skechers,Men,Footwear,Casual Shoes,6999.0,4549.0,35,4.4,1720.0
+MYN00153,Aurelia Women Straight Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.3,710.0
+MYN00154,Biba Women Solid Palazzos,Biba,Women,Clothing,Palazzos,1899.0,1139.0,40,4.1,440.0
+MYN00155,Manyavar Men Printed Kurta Set,Manyavar,Men,Clothing,Ethnic Sets,4799.0,3359.0,30,4.6,870.0
+MYN00156,Peter England Men Formal Trousers,Peter England,Men,Clothing,Trousers,2999.0,2099.0,30,4.3,760.0
+MYN00157,Van Heusen Women Formal Shirt,Van Heusen,Women,Clothing,Tops,2699.0,1889.0,30,4.2,410.0
+MYN00158,H&M Women Floral Dress,H&M,Women,Clothing,Dresses,3299.0,1979.0,40,4.4,1390.0
+MYN00159,Reebok Men Sports Shoes,Reebok,Men,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,1480.0
+MYN00160,New Balance Women Casual Shoes,New Balance,Women,Footwear,Casual Shoes,6499.0,4549.0,30,4.5,1870.0
+MYN00161,Nike Men Running Sneakers,Nike,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,3050.0
+MYN00162,Libas Women Embroidered Kurta,Libas,Women,Clothing,Kurtas,2999.0,1799.0,40,4.4,620.0
+MYN00163,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,830.0
+MYN00164,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,2040.0
+MYN00165,HRX Men Running Shorts,HRX,Men,Clothing,Sports Shorts,1799.0,1079.0,40,4.1,430.0
+MYN00166,Adidas Men Training Track Pants,Adidas,Men,Clothing,Track Pants,2699.0,1619.0,40,4.4,1140.0
+MYN00167,Wrogn Men Denim Jeans,Wrogn,Men,Clothing,Jeans,4299.0,2364.0,45,4.0,690.0
+MYN00168,Roadster Women Casual T-Shirt,Roadster,Women,Clothing,T-Shirts,1799.0,989.0,45,4.2,960.0
+MYN00169,Levis Men Casual Jacket,Levis,Men,Clothing,Jackets,5299.0,3179.0,40,4.5,1190.0
+MYN00170,Fabindia Women Ethnic Set,Fabindia,Women,Clothing,Ethnic Sets,5299.0,3179.0,40,4.4,650.0
+MYN00171,Skechers Women Walking Shoes,Skechers,Women,Footwear,Walking Shoes,7999.0,5199.0,35,4.6,3415.0
+MYN00172,ASICS Men Training Track Pants,ASICS,Men,Clothing,Track Pants,3199.0,2239.0,30,4.3,510.0
+MYN00173,Puma Women Cotton T-Shirt,Puma,Women,Clothing,T-Shirts,1899.0,1139.0,40,4.2,1060.0
+MYN00174,Biba Women Straight Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,920.0
+MYN00175,Manyavar Men Embroidered Sherwani,Manyavar,Men,Clothing,Sherwanis,10999.0,6749.0,30,4.7,350.0
+MYN00176,Nike Women Training Track Pants,Nike,Women,Clothing,Track Pants,2899.0,1739.0,40,4.3,820.0
+MYN00177,Adidas Men Casual Sneakers,Adidas,Men,Footwear,Casual Shoes,5499.0,3849.0,30,4.4,1590.0
+MYN00178,Libas Women A-Line Ethnic Dress,Libas,Women,Clothing,Ethnic Dresses,3499.0,2099.0,40,4.2,410.0
+MYN00179,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,1030.0
+MYN00180,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4499.0,3149.0,30,4.4,740.0
+MYN00181,H&M Men Slim Fit Jeans,H&M,Men,Clothing,Jeans,3299.0,1979.0,40,4.2,1410.0
+MYN00182,Max Women Printed Dress,Max,Women,Clothing,Dresses,2699.0,1619.0,40,4.1,690.0
+MYN00183,Van Heusen Men Formal Shirt,Van Heusen,Men,Clothing,Shirts,2799.0,1959.0,30,4.4,880.0
+MYN00184,Aurelia Women Ethnic Set,Aurelia,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,560.0
+MYN00185,New Balance Men Sports Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2710.0
+MYN00186,HRX Women Training Track Pants,HRX,Women,Clothing,Track Pants,2399.0,1439.0,40,4.2,610.0
+MYN00187,Levis Women Slim Fit Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.5,2010.0
+MYN00188,Roadster Men Printed T-Shirt,Roadster,Men,Clothing,T-Shirts,1699.0,934.0,45,4.0,780.0
+MYN00189,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,3199.0,1919.0,40,4.5,510.0
+MYN00190,Puma Women Casual Shoes,Puma,Women,Footwear,Casual Shoes,4499.0,2699.0,40,4.1,650.0
+MYN00191,Adidas Women Sports T-Shirt,Adidas,Women,Clothing,T-Shirts,2399.0,1439.0,40,4.4,1630.0
+MYN00192,Biba Women Embroidered Kurta,Biba,Women,Clothing,Kurtas,2999.0,1799.0,40,4.5,1090.0
+MYN00193,Manyavar Men Textured Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4799.0,3359.0,30,4.6,440.0
+MYN00194,Skechers Men Sports Shoes,Skechers,Men,Footwear,Sports Shoes,8499.0,5524.0,35,4.5,3350.0
+MYN00195,Nike Men Casual Shoes,Nike,Men,Footwear,Casual Shoes,6999.0,4899.0,30,4.4,1870.0
+MYN00196,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,2099.0,1259.0,40,4.2,360.0
+MYN00197,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2699.0,1619.0,40,4.1,550.0
+MYN00198,H&M Women Regular Fit Jeans,H&M,Women,Clothing,Jeans,3199.0,1919.0,40,4.3,1490.0
+MYN00199,Peter England Men Blazer,Peter England,Men,Clothing,Blazers,6499.0,4549.0,30,4.5,330.0
+MYN00200,Fabindia Women Cotton Kurta,Fabindia,Women,Clothing,Kurtas,2999.0,1799.0,40,4.4,710.0
+MYN00201,Nike Men Sports Shoes,Nike,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2260.0
+MYN00202,Adidas Women Training Shoes,Adidas,Women,Footwear,Sports Shoes,5999.0,4199.0,30,4.3,1010.0
+MYN00203,Puma Men Solid T-Shirt,Puma,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.2,3415.0
+MYN00204,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2599.0,1559.0,40,4.5,910.0
+MYN00205,Biba Women Embroidered Kurti,Biba,Women,Clothing,Kurtis,3199.0,1919.0,40,4.4,1290.0
+MYN00206,Manyavar Men Embroidered Sherwani,Manyavar,Men,Clothing,Sherwanis,9499.0,6649.0,30,4.6,540.0
+MYN00207,Skechers Women Walking Shoes,Skechers,Women,Footwear,Walking Shoes,7499.0,4874.0,35,4.5,2190.0
+MYN00208,Wrogn Men Checked Casual Shirt,Wrogn,Men,Clothing,Shirts,2699.0,1484.0,45,4.1,790.0
+MYN00209,Levis Women Slim Fit Jeans,Levis,Women,Clothing,Jeans,4499.0,2699.0,40,4.3,1910.0
+MYN00210,HRX Men Training Track Pants,HRX,Men,Clothing,Track Pants,2399.0,1439.0,40,4.2,670.0
+MYN00211,Adidas Men Sports Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,3370.0
+MYN00212,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4299.0,2579.0,40,4.3,970.0
+MYN00213,Puma Women Sports Bra,Puma,Women,Clothing,Sports Bras,1899.0,1139.0,40,4.1,550.0
+MYN00214,Manyavar Men Textured Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,430.0
+MYN00215,Nike Women Running Sneakers,Nike,Women,Footwear,Sports Shoes,7299.0,4379.0,40,4.6,2970.0
+MYN00216,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3699.0,2219.0,40,4.4,790.0
+MYN00217,Puma Men Casual Sneakers,Puma,Men,Footwear,Casual Shoes,4799.0,2879.0,40,4.2,1210.0
+MYN00218,Aurelia Women Straight Kurti,Aurelia,Women,Clothing,Kurtis,2299.0,1379.0,40,4.3,710.0
+MYN00219,Reebok Men Printed T-Shirt,Reebok,Men,Clothing,T-Shirts,1899.0,1139.0,40,4.1,980.0
+MYN00220,H&M Women Floral Dress,H&M,Women,Clothing,Dresses,3199.0,1919.0,40,4.4,1490.0
+MYN00221,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8299.0,5809.0,30,4.6,3415.0
+MYN00222,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2599.0,1559.0,40,4.2,760.0
+MYN00223,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,850.0
+MYN00224,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,3199.0,2239.0,30,4.4,700.0
+MYN00225,Fabindia Women Printed Saree,Fabindia,Women,Clothing,Sarees,5299.0,3179.0,40,4.5,620.0
+MYN00226,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3699.0,2034.0,45,4.1,1160.0
+MYN00227,Max Women Regular Fit Top,Max,Women,Clothing,Tops,1599.0,959.0,40,4.0,450.0
+MYN00228,New Balance Men Casual Shoes,New Balance,Men,Footwear,Casual Shoes,7799.0,5459.0,30,4.5,1810.0
+MYN00229,Skechers Men Comfort Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6799.0,4419.0,35,4.4,2510.0
+MYN00230,Libas Women A-Line Ethnic Dress,Libas,Women,Clothing,Ethnic Dresses,3199.0,1919.0,40,4.2,540.0
+MYN00231,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,890.0
+MYN00232,Biba Women Straight Kurti,Biba,Women,Clothing,Kurtis,2499.0,1499.0,40,4.4,950.0
+MYN00233,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2699.0,1889.0,30,4.5,1190.0
+MYN00234,Puma Women Casual Shoes,Puma,Women,Footwear,Casual Shoes,4199.0,2519.0,40,4.2,920.0
+MYN00235,Levis Men Tapered Jeans,Levis,Men,Clothing,Jeans,4699.0,2819.0,40,4.3,2190.0
+MYN00236,H&M Men Regular Fit Shirt,H&M,Men,Clothing,Shirts,2099.0,1259.0,40,4.1,710.0
+MYN00237,Adidas Men Training Shoes,Adidas,Men,Footwear,Sports Shoes,6299.0,4409.0,30,4.5,2290.0
+MYN00238,Biba Women Ethnic Kurta Set,Biba,Women,Clothing,Ethnic Sets,4199.0,2519.0,40,4.6,1380.0
+MYN00239,Libas Women Solid Palazzos,Libas,Women,Clothing,Palazzos,1899.0,1139.0,40,4.2,400.0
+MYN00240,Wrogn Men Casual Trousers,Wrogn,Men,Clothing,Trousers,2899.0,1594.0,45,4.0,570.0
+MYN00241,HRX Women Running Shoes,HRX,Women,Footwear,Sports Shoes,4199.0,2519.0,40,4.2,650.0
+MYN00242,Reebok Women Training Track Pants,Reebok,Women,Clothing,Track Pants,2399.0,1439.0,40,4.3,750.0
+MYN00243,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,7699.0,5389.0,30,4.6,3220.0
+MYN00244,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,5199.0,3639.0,30,4.5,810.0
+MYN00245,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,660.0
+MYN00246,Levis Women Denim Jacket,Levis,Women,Clothing,Jackets,4199.0,2519.0,40,4.2,970.0
+MYN00247,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,510.0
+MYN00248,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3399.0,1869.0,45,4.1,880.0
+MYN00249,Nike Women Sports T-Shirt,Nike,Women,Clothing,T-Shirts,2399.0,1439.0,40,4.5,1810.0
+MYN00250,Puma Men Sports Shorts,Puma,Men,Clothing,Sports Shorts,1799.0,1079.0,40,4.2,640.0
+MYN00251,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2150.0
+MYN00252,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,890.0
+MYN00253,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1899.0,1139.0,40,4.2,740.0
+MYN00254,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2299.0,1379.0,40,4.3,620.0
+MYN00255,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.6,2870.0
+MYN00256,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2799.0,1959.0,30,4.5,740.0
+MYN00257,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6999.0,4549.0,35,4.4,1920.0
+MYN00258,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00259,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2399.0,1439.0,40,4.2,680.0
+MYN00260,H&M Women Casual Top,H&M,Women,Clothing,Tops,1699.0,1019.0,40,4.1,530.0
+MYN00261,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,2980.0
+MYN00262,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,1160.0
+MYN00263,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,980.0
+MYN00264,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,410.0
+MYN00265,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2799.0,1959.0,30,4.3,840.0
+MYN00266,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1250.0
+MYN00267,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,510.0
+MYN00268,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,730.0
+MYN00269,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,610.0
+MYN00270,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,580.0
+MYN00271,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,940.0
+MYN00272,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,490.0
+MYN00273,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2410.0
+MYN00274,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00275,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,520.0
+MYN00276,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,710.0
+MYN00277,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1320.0
+MYN00278,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,810.0
+MYN00279,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,570.0
+MYN00280,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,690.0
+MYN00281,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,280.0
+MYN00282,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1870.0
+MYN00283,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1680.0
+MYN00284,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2030.0
+MYN00285,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,490.0
+MYN00286,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,760.0
+MYN00287,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,680.0
+MYN00288,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2290.0
+MYN00289,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,720.0
+MYN00290,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,560.0
+MYN00291,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,390.0
+MYN00292,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,620.0
+MYN00293,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2340.0
+MYN00294,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,430.0
+MYN00295,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,570.0
+MYN00296,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,390.0
+MYN00297,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,760.0
+MYN00298,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,480.0
+MYN00299,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2180.0
+MYN00300,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00301,Adidas Men Training Shoes,Adidas,Men,Footwear,Sports Shoes,6499.0,4549.0,30,4.5,2760.0
+MYN00302,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2799.0,1679.0,40,4.4,970.0
+MYN00303,Puma Men Solid T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.1,890.0
+MYN00304,Libas Women Cotton Kurta,Libas,Women,Clothing,Kurtas,2399.0,1439.0,40,4.3,610.0
+MYN00305,Nike Women Training Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.5,2540.0
+MYN00306,Manyavar Men Embroidered Kurta,Manyavar,Men,Clothing,Kurtas,3299.0,2309.0,30,4.6,460.0
+MYN00307,Skechers Men Sports Shoes,Skechers,Men,Footwear,Sports Shoes,7999.0,5199.0,35,4.5,3020.0
+MYN00308,Levis Women Denim Jacket,Levis,Women,Clothing,Jackets,4299.0,2579.0,40,4.2,830.0
+MYN00309,HRX Men Running Shorts,HRX,Men,Clothing,Sports Shorts,1799.0,1079.0,40,4.1,360.0
+MYN00310,H&M Women Floral Dress,H&M,Women,Clothing,Dresses,2999.0,1799.0,40,4.4,1260.0
+MYN00311,Adidas Women Casual Shoes,Adidas,Women,Footwear,Casual Shoes,4999.0,3499.0,30,4.3,1160.0
+MYN00312,Puma Men Running Shoes,Puma,Men,Footwear,Sports Shoes,6999.0,4199.0,40,4.4,1940.0
+MYN00313,Biba Women Ethnic Kurta Set,Biba,Women,Clothing,Ethnic Sets,4299.0,2579.0,40,4.6,850.0
+MYN00314,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,570.0
+MYN00315,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,2999.0,1799.0,40,4.2,920.0
+MYN00316,Reebok Women Running Shoes,Reebok,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,1190.0
+MYN00317,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,5299.0,3709.0,30,4.5,470.0
+MYN00318,Peter England Men Trousers,Peter England,Men,Clothing,Trousers,2899.0,2029.0,30,4.3,690.0
+MYN00319,Van Heusen Men Formal Shirt,Van Heusen,Men,Clothing,Shirts,2599.0,1819.0,30,4.4,730.0
+MYN00320,Fabindia Women Ethnic Set,Fabindia,Women,Clothing,Ethnic Sets,4499.0,2699.0,40,4.5,510.0
+MYN00321,Roadster Men Casual Jacket,Roadster,Men,Clothing,Jackets,3799.0,2089.0,45,4.1,850.0
+MYN00322,Max Women Casual Top,Max,Women,Clothing,Tops,1399.0,839.0,40,4.0,310.0
+MYN00323,New Balance Men Casual Shoes,New Balance,Men,Footwear,Casual Shoes,7499.0,5249.0,30,4.5,1640.0
+MYN00324,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2910.0
+MYN00325,Wrogn Men Slim Fit Jeans,Wrogn,Men,Clothing,Jeans,3999.0,2199.0,45,4.0,640.0
+MYN00326,Aurelia Women Straight Kurti,Aurelia,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,530.0
+MYN00327,Adidas Men Sports Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2190.0
+MYN00328,Biba Women Embroidered Kurti,Biba,Women,Clothing,Kurtis,3199.0,1919.0,40,4.4,1130.0
+MYN00329,Puma Women Sports Shoes,Puma,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.2,1010.0
+MYN00330,Libas Women Palazzos,Libas,Women,Clothing,Palazzos,1799.0,1079.0,40,4.1,290.0
+MYN00331,Manyavar Men Ethnic Set,Manyavar,Men,Clothing,Ethnic Sets,4499.0,3149.0,30,4.6,720.0
+MYN00332,Nike Men Casual Shoes,Nike,Men,Footwear,Casual Shoes,5999.0,4199.0,30,4.4,1780.0
+MYN00333,Skechers Women Sports Shoes,Skechers,Women,Footwear,Sports Shoes,8499.0,5524.0,35,4.6,3415.0
+MYN00334,Levis Men Jeans,Levis,Men,Clothing,Jeans,4299.0,2579.0,40,4.3,1890.0
+MYN00335,HRX Women Track Pants,HRX,Women,Clothing,Track Pants,2299.0,1379.0,40,4.2,490.0
+MYN00336,H&M Men T-Shirt,H&M,Men,Clothing,T-Shirts,1799.0,1079.0,40,4.1,920.0
+MYN00337,Adidas Women Sports T-Shirt,Adidas,Women,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1480.0
+MYN00338,Puma Men Training Track Pants,Puma,Men,Clothing,Track Pants,2699.0,1619.0,40,4.2,740.0
+MYN00339,Biba Women Saree,Biba,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,680.0
+MYN00340,Libas Women Ethnic Dress,Libas,Women,Clothing,Ethnic Dresses,2999.0,1799.0,40,4.2,390.0
+MYN00341,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,210.0
+MYN00342,Reebok Men Sports Shoes,Reebok,Men,Footwear,Sports Shoes,6999.0,4199.0,40,4.3,1670.0
+MYN00343,Nike Women Sports T-Shirt,Nike,Women,Clothing,T-Shirts,2399.0,1439.0,40,4.5,1540.0
+MYN00344,Fabindia Men Kurta,Fabindia,Men,Clothing,Kurtas,2899.0,1739.0,40,4.4,520.0
+MYN00345,Peter England Men Blazer,Peter England,Men,Clothing,Blazers,6499.0,4549.0,30,4.5,340.0
+MYN00346,Van Heusen Women Tops,Van Heusen,Women,Clothing,Tops,2299.0,1609.0,30,4.2,270.0
+MYN00347,Roadster Women Jeans,Roadster,Women,Clothing,Jeans,3299.0,1814.0,45,4.1,790.0
+MYN00348,Max Men T-Shirt,Max,Men,Clothing,T-Shirts,1699.0,1019.0,40,4.0,410.0
+MYN00349,New Balance Women Casual Shoes,New Balance,Women,Footwear,Casual Shoes,6799.0,4759.0,30,4.5,1420.0
+MYN00350,ASICS Men Sports Shoes,ASICS,Men,Footwear,Sports Shoes,7999.0,5599.0,30,4.6,3415.0
+MYN00351,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2180.0
+MYN00352,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2599.0,1559.0,40,4.4,920.0
+MYN00353,Puma Men T-Shirt,Puma,Men,Clothing,T-Shirts,1799.0,1079.0,40,4.2,780.0
+MYN00354,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,610.0
+MYN00355,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7799.0,4679.0,40,4.6,3100.0
+MYN00356,Manyavar Men Kurta,Manyavar,Men,Clothing,Kurtas,2599.0,1819.0,30,4.5,580.0
+MYN00357,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,2230.0
+MYN00358,Levis Women Jeans,Levis,Women,Clothing,Jeans,3999.0,2399.0,40,4.3,1680.0
+MYN00359,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,720.0
+MYN00360,H&M Women Top,H&M,Women,Clothing,Tops,1599.0,959.0,40,4.1,450.0
+MYN00361,Adidas Women Sports Shoes,Adidas,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2790.0
+MYN00362,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4699.0,2819.0,40,4.2,1270.0
+MYN00363,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4499.0,2699.0,40,4.5,1010.0
+MYN00364,Libas Women Palazzos,Libas,Women,Clothing,Palazzos,1899.0,1139.0,40,4.2,370.0
+MYN00365,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,890.0
+MYN00366,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6299.0,3779.0,40,4.3,1130.0
+MYN00367,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3999.0,2799.0,30,4.5,410.0
+MYN00368,Peter England Men Shirt,Peter England,Men,Clothing,Shirts,2199.0,1539.0,30,4.3,680.0
+MYN00369,Van Heusen Men Trousers,Van Heusen,Men,Clothing,Trousers,3099.0,2169.0,30,4.4,620.0
+MYN00370,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,5299.0,3179.0,40,4.5,610.0
+MYN00371,Roadster Men Jacket,Roadster,Men,Clothing,Jackets,3999.0,2199.0,45,4.1,920.0
+MYN00372,Max Women Dress,Max,Women,Clothing,Dresses,2599.0,1559.0,40,4.1,520.0
+MYN00373,New Balance Men Sports Shoes,New Balance,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.6,2630.0
+MYN00374,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00375,Wrogn Men T-Shirt,Wrogn,Men,Clothing,T-Shirts,1899.0,1044.0,45,4.0,590.0
+MYN00376,Aurelia Women Kurta,Aurelia,Women,Clothing,Kurtas,2599.0,1559.0,40,4.4,640.0
+MYN00377,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,5299.0,3709.0,30,4.4,1390.0
+MYN00378,Biba Women Kurti,Biba,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,850.0
+MYN00379,Puma Women Track Pants,Puma,Women,Clothing,Track Pants,2599.0,1559.0,40,4.2,610.0
+MYN00380,Libas Women Ethnic Set,Libas,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,720.0
+MYN00381,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,10999.0,6749.0,30,4.7,260.0
+MYN00382,Nike Men T-Shirt,Nike,Men,Clothing,T-Shirts,2099.0,1259.0,40,4.4,1930.0
+MYN00383,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6799.0,4419.0,35,4.5,1730.0
+MYN00384,Levis Men Jeans,Levis,Men,Clothing,Jeans,4599.0,2759.0,40,4.4,2140.0
+MYN00385,HRX Women T-Shirt,HRX,Women,Clothing,T-Shirts,1899.0,1139.0,40,4.2,530.0
+MYN00386,H&M Men Shirt,H&M,Men,Clothing,Shirts,2199.0,1319.0,40,4.1,810.0
+MYN00387,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2799.0,1679.0,40,4.2,720.0
+MYN00388,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6499.0,3899.0,40,4.4,2380.0
+MYN00389,Biba Women Saree,Biba,Women,Clothing,Sarees,4699.0,2819.0,40,4.5,740.0
+MYN00390,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2799.0,1679.0,40,4.4,590.0
+MYN00391,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3699.0,2589.0,30,4.5,360.0
+MYN00392,Reebok Men Track Pants,Reebok,Men,Clothing,Track Pants,2599.0,1559.0,40,4.1,650.0
+MYN00393,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7299.0,4379.0,40,4.5,2480.0
+MYN00394,Fabindia Men Kurta,Fabindia,Men,Clothing,Kurtas,2999.0,1799.0,40,4.4,460.0
+MYN00395,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4299.0,3009.0,30,4.3,620.0
+MYN00396,Van Heusen Women Trousers,Van Heusen,Women,Clothing,Trousers,3299.0,2309.0,30,4.2,420.0
+MYN00397,Roadster Women Jacket,Roadster,Women,Clothing,Jackets,3699.0,2034.0,45,4.1,820.0
+MYN00398,Max Men Shirt,Max,Men,Clothing,Shirts,1999.0,1199.0,40,4.0,450.0
+MYN00399,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7699.0,5389.0,30,4.6,2290.0
+MYN00400,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8799.0,6159.0,30,4.7,3415.0
+MYN00401,Adidas Men Sports Shoes,Adidas,Men,Footwear,Sports Shoes,7299.0,5109.0,30,4.5,2210.0
+MYN00402,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,960.0
+MYN00403,Puma Men T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,820.0
+MYN00404,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2599.0,1559.0,40,4.3,640.0
+MYN00405,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,3200.0
+MYN00406,Manyavar Men Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,620.0
+MYN00407,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7499.0,4874.0,35,4.4,2310.0
+MYN00408,Levis Women Jeans,Levis,Women,Clothing,Jeans,4399.0,2639.0,40,4.3,1810.0
+MYN00409,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2599.0,1559.0,40,4.2,760.0
+MYN00410,H&M Women Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,490.0
+MYN00411,Adidas Women Sports Shoes,Adidas,Women,Footwear,Sports Shoes,7799.0,5459.0,30,4.5,2910.0
+MYN00412,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4899.0,2939.0,40,4.2,1320.0
+MYN00413,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4599.0,2759.0,40,4.5,1040.0
+MYN00414,Libas Women Palazzos,Libas,Women,Clothing,Palazzos,2099.0,1259.0,40,4.2,390.0
+MYN00415,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,3099.0,2169.0,30,4.3,950.0
+MYN00416,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,1210.0
+MYN00417,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,5499.0,3849.0,30,4.6,480.0
+MYN00418,Peter England Men Shirt,Peter England,Men,Clothing,Shirts,2299.0,1609.0,30,4.3,710.0
+MYN00419,Van Heusen Men Trousers,Van Heusen,Men,Clothing,Trousers,3199.0,2239.0,30,4.4,650.0
+MYN00420,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,5499.0,3299.0,40,4.5,640.0
+MYN00421,Roadster Men Jacket,Roadster,Men,Clothing,Jackets,4199.0,2309.0,45,4.1,950.0
+MYN00422,Max Women Dress,Max,Women,Clothing,Dresses,2899.0,1739.0,40,4.1,560.0
+MYN00423,New Balance Men Sports Shoes,New Balance,Men,Footwear,Sports Shoes,9299.0,6509.0,30,4.6,2760.0
+MYN00424,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,8299.0,5809.0,30,4.7,3415.0
+MYN00425,Wrogn Men T-Shirt,Wrogn,Men,Clothing,T-Shirts,1999.0,1099.0,45,4.0,630.0
+MYN00426,Aurelia Women Kurta,Aurelia,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,670.0
+MYN00427,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,5499.0,3849.0,30,4.4,1450.0
+MYN00428,Biba Women Kurti,Biba,Women,Clothing,Kurtis,2499.0,1499.0,40,4.3,880.0
+MYN00429,Puma Women Track Pants,Puma,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,640.0
+MYN00430,Libas Women Ethnic Set,Libas,Women,Clothing,Ethnic Sets,4199.0,2519.0,40,4.5,760.0
+MYN00431,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,290.0
+MYN00432,Nike Men T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,2040.0
+MYN00433,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6999.0,4549.0,35,4.5,1810.0
+MYN00434,Levis Men Jeans,Levis,Men,Clothing,Jeans,4799.0,2879.0,40,4.4,2250.0
+MYN00435,HRX Women T-Shirt,HRX,Women,Clothing,T-Shirts,1999.0,1199.0,40,4.2,570.0
+MYN00436,H&M Men Shirt,H&M,Men,Clothing,Shirts,2299.0,1379.0,40,4.1,850.0
+MYN00437,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2899.0,1739.0,40,4.2,780.0
+MYN00438,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6799.0,4079.0,40,4.4,2510.0
+MYN00439,Biba Women Saree,Biba,Women,Clothing,Sarees,4799.0,2879.0,40,4.5,790.0
+MYN00440,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2899.0,1739.0,40,4.4,620.0
+MYN00441,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3899.0,2729.0,30,4.5,380.0
+MYN00442,Reebok Men Track Pants,Reebok,Men,Clothing,Track Pants,2699.0,1619.0,40,4.1,690.0
+MYN00443,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.5,2590.0
+MYN00444,Fabindia Men Kurta,Fabindia,Men,Clothing,Kurtas,3099.0,1859.0,40,4.4,490.0
+MYN00445,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4499.0,3149.0,30,4.3,670.0
+MYN00446,Van Heusen Women Trousers,Van Heusen,Women,Clothing,Trousers,3399.0,2379.0,30,4.2,450.0
+MYN00447,Roadster Women Jacket,Roadster,Women,Clothing,Jackets,3899.0,2144.0,45,4.1,860.0
+MYN00448,Max Men Shirt,Max,Men,Clothing,Shirts,2099.0,1259.0,40,4.0,470.0
+MYN00449,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7899.0,5529.0,30,4.6,2410.0
+MYN00450,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00451,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7399.0,5179.0,30,4.5,2290.0
+MYN00452,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2799.0,1679.0,40,4.4,1010.0
+MYN00453,Puma Men T-Shirt,Puma,Men,Clothing,T-Shirts,2099.0,1259.0,40,4.2,860.0
+MYN00454,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.3,670.0
+MYN00455,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,8199.0,4919.0,40,4.6,3310.0
+MYN00456,Manyavar Men Kurta,Manyavar,Men,Clothing,Kurtas,2999.0,2099.0,30,4.5,650.0
+MYN00457,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7699.0,5004.0,35,4.4,2390.0
+MYN00458,Levis Women Jeans,Levis,Women,Clothing,Jeans,4499.0,2699.0,40,4.3,1940.0
+MYN00459,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2699.0,1619.0,40,4.2,810.0
+MYN00460,H&M Women Top,H&M,Women,Clothing,Tops,1899.0,1139.0,40,4.1,520.0
+MYN00461,Adidas Women Sports Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3060.0
+MYN00462,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,5099.0,3059.0,40,4.2,1390.0
+MYN00463,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4699.0,2819.0,40,4.5,1090.0
+MYN00464,Libas Women Palazzos,Libas,Women,Clothing,Palazzos,2199.0,1319.0,40,4.2,420.0
+MYN00465,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,3199.0,2239.0,30,4.3,1010.0
+MYN00466,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6699.0,4019.0,40,4.3,1290.0
+MYN00467,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,5699.0,3989.0,30,4.6,500.0
+MYN00468,Peter England Men Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,740.0
+MYN00469,Van Heusen Men Trousers,Van Heusen,Men,Clothing,Trousers,3299.0,2309.0,30,4.4,680.0
+MYN00470,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,5699.0,3419.0,40,4.5,670.0
+MYN00471,Roadster Men Jacket,Roadster,Men,Clothing,Jackets,4299.0,2364.0,45,4.1,980.0
+MYN00472,Max Women Dress,Max,Women,Clothing,Dresses,2999.0,1799.0,40,4.1,590.0
+MYN00473,New Balance Men Sports Shoes,New Balance,Men,Footwear,Sports Shoes,9499.0,6649.0,30,4.6,2890.0
+MYN00474,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,8499.0,5949.0,30,4.7,3415.0
+MYN00475,Wrogn Men T-Shirt,Wrogn,Men,Clothing,T-Shirts,2099.0,1154.0,45,4.0,670.0
+MYN00476,Aurelia Women Kurta,Aurelia,Women,Clothing,Kurtas,2799.0,1679.0,40,4.4,710.0
+MYN00477,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,5699.0,3989.0,30,4.4,1510.0
+MYN00478,Biba Women Kurti,Biba,Women,Clothing,Kurtis,2599.0,1559.0,40,4.3,910.0
+MYN00479,Puma Women Track Pants,Puma,Women,Clothing,Track Pants,2799.0,1679.0,40,4.2,670.0
+MYN00480,Libas Women Ethnic Set,Libas,Women,Clothing,Ethnic Sets,4399.0,2639.0,40,4.5,810.0
+MYN00481,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,310.0
+MYN00482,Nike Men T-Shirt,Nike,Men,Clothing,T-Shirts,2299.0,1379.0,40,4.4,2150.0
+MYN00483,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,7199.0,4679.0,35,4.5,1900.0
+MYN00484,Levis Men Jeans,Levis,Men,Clothing,Jeans,4999.0,2999.0,40,4.4,2370.0
+MYN00485,HRX Women T-Shirt,HRX,Women,Clothing,T-Shirts,2099.0,1259.0,40,4.2,610.0
+MYN00486,H&M Men Shirt,H&M,Men,Clothing,Shirts,2399.0,1439.0,40,4.1,890.0
+MYN00487,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2999.0,1799.0,40,4.2,820.0
+MYN00488,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6999.0,4199.0,40,4.4,2640.0
+MYN00489,Biba Women Saree,Biba,Women,Clothing,Sarees,4899.0,2939.0,40,4.5,830.0
+MYN00490,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2999.0,1799.0,40,4.4,650.0
+MYN00491,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,4099.0,2869.0,30,4.5,400.0
+MYN00492,Reebok Men Track Pants,Reebok,Men,Clothing,Track Pants,2799.0,1679.0,40,4.1,730.0
+MYN00493,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7699.0,4619.0,40,4.5,2710.0
+MYN00494,Fabindia Men Kurta,Fabindia,Men,Clothing,Kurtas,3199.0,1919.0,40,4.4,520.0
+MYN00495,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4699.0,3289.0,30,4.3,690.0
+MYN00496,Van Heusen Women Trousers,Van Heusen,Women,Clothing,Trousers,3499.0,2449.0,30,4.2,480.0
+MYN00497,Roadster Women Jacket,Roadster,Women,Clothing,Jackets,3999.0,2199.0,45,4.1,900.0
+MYN00498,Max Men Shirt,Max,Men,Clothing,Shirts,2199.0,1319.0,40,4.0,490.0
+MYN00499,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,8099.0,5669.0,30,4.6,2530.0
+MYN00500,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,9299.0,6509.0,30,4.7,3415.0
+MYN00501,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN00502,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN00503,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN00504,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN00505,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN00506,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN00507,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN00508,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00509,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN00510,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN00511,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN00512,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN00513,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN00514,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN00515,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN00516,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN00517,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN00518,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN00519,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN00520,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN00521,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN00522,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN00523,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN00524,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00525,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN00526,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN00527,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN00528,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN00529,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN00530,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN00531,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN00532,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN00533,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN00534,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN00535,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN00536,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN00537,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN00538,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN00539,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN00540,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN00541,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN00542,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN00543,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN00544,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN00545,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN00546,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN00547,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN00548,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN00549,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN00550,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00551,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2180.0
+MYN00552,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,870.0
+MYN00553,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1899.0,1139.0,40,4.2,740.0
+MYN00554,Libas Women Straight Kurti,Libas,Women,Clothing,Sports Shoes,2299.0,1379.0,40,4.3,620.0
+MYN00555,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.6,2870.0
+MYN00556,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2799.0,1959.0,30,4.5,740.0
+MYN00557,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6999.0,4549.0,35,4.4,790.0
+MYN00558,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00559,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2399.0,1439.0,40,4.2,680.0
+MYN00560,H&M Women Casual Top,H&M,Women,Clothing,Tops,1699.0,1019.0,40,4.1,790.0
+MYN00561,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,2219.0,30,4.5,2980.0
+MYN00562,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,1160.0
+MYN00563,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,980.0
+MYN00564,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.3,410.0
+MYN00565,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2799.0,1959.0,30,4.3,840.0
+MYN00566,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,790.0
+MYN00567,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,510.0
+MYN00568,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,730.0
+MYN00569,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,610.0
+MYN00570,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,580.0
+MYN00571,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,940.0
+MYN00572,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,490.0
+MYN00573,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2410.0
+MYN00574,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00575,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,520.0
+MYN00576,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,710.0
+MYN00577,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1320.0
+MYN00578,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,810.0
+MYN00579,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,570.0
+MYN00580,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,690.0
+MYN00581,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,280.0
+MYN00582,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1870.0
+MYN00583,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1680.0
+MYN00584,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2030.0
+MYN00585,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,490.0
+MYN00586,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,760.0
+MYN00587,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,680.0
+MYN00588,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2290.0
+MYN00589,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,720.0
+MYN00590,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,560.0
+MYN00591,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,390.0
+MYN00592,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,620.0
+MYN00593,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2340.0
+MYN00594,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,430.0
+MYN00595,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,570.0
+MYN00596,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,390.0
+MYN00597,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,760.0
+MYN00598,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,480.0
+MYN00599,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2180.0
+MYN00600,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00601,Adidas Men Training Shoes,Adidas,Men,Footwear,Sports Shoes,6499.0,4549.0,30,4.5,2760.0
+MYN00602,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2799.0,1679.0,40,4.4,970.0
+MYN00603,Puma Men Solid T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.1,890.0
+MYN00604,Libas Women Cotton Kurta,Libas,Women,Clothing,Kurtas,2399.0,1439.0,40,4.3,610.0
+MYN00605,Nike Women Training Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.5,2540.0
+MYN00606,Manyavar Men Embroidered Kurta,Manyavar,Men,Clothing,Kurtas,3299.0,2309.0,30,4.6,460.0
+MYN00607,Skechers Men Sports Shoes,Skechers,Men,Footwear,Sports Shoes,7999.0,5199.0,35,4.5,3020.0
+MYN00608,Levis Women Denim Jacket,Levis,Women,Clothing,Jackets,4299.0,2579.0,40,4.2,830.0
+MYN00609,HRX Men Running Shorts,HRX,Men,Clothing,Sports Shorts,1799.0,1079.0,40,4.1,360.0
+MYN00610,H&M Women Floral Dress,H&M,Women,Clothing,Dresses,2999.0,1799.0,40,4.4,1260.0
+MYN00611,Adidas Women Casual Shoes,Adidas,Women,Footwear,Casual Shoes,4999.0,3499.0,30,4.3,1160.0
+MYN00612,Puma Men Running Shoes,Puma,Men,Footwear,Sports Shoes,6999.0,4199.0,40,4.4,1940.0
+MYN00613,Biba Women Ethnic Kurta Set,Biba,Women,Clothing,Ethnic Sets,4299.0,2579.0,40,4.6,850.0
+MYN00614,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,570.0
+MYN00615,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,2999.0,1799.0,40,4.2,920.0
+MYN00616,Reebok Women Running Shoes,Reebok,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,1190.0
+MYN00617,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,5299.0,3709.0,30,4.5,470.0
+MYN00618,Peter England Men Trousers,Peter England,Men,Clothing,Trousers,2899.0,2029.0,30,4.3,690.0
+MYN00619,Van Heusen Men Formal Shirt,Van Heusen,Men,Clothing,Shirts,2599.0,1819.0,30,4.4,730.0
+MYN00620,Fabindia Women Ethnic Set,Fabindia,Women,Clothing,Ethnic Sets,4499.0,2699.0,40,4.5,510.0
+MYN00621,Roadster Men Casual Jacket,Roadster,Men,Clothing,Jackets,3799.0,2089.0,45,4.1,850.0
+MYN00622,Max Women Casual Top,Max,Women,Clothing,Tops,1399.0,839.0,40,4.0,310.0
+MYN00623,New Balance Men Casual Shoes,New Balance,Men,Footwear,Casual Shoes,7499.0,5249.0,30,4.5,1640.0
+MYN00624,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2910.0
+MYN00625,Wrogn Men Slim Fit Jeans,Wrogn,Men,Clothing,Jeans,3999.0,2199.0,45,4.0,640.0
+MYN00626,Aurelia Women Straight Kurti,Aurelia,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,530.0
+MYN00627,Adidas Men Sports Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2190.0
+MYN00628,Biba Women Embroidered Kurti,Biba,Women,Clothing,Kurtis,3199.0,1919.0,40,4.4,1130.0
+MYN00629,Puma Women Sports Shoes,Puma,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.2,1010.0
+MYN00630,Libas Women Palazzos,Libas,Women,Clothing,Palazzos,1799.0,1079.0,40,4.1,290.0
+MYN00631,Manyavar Men Ethnic Set,Manyavar,Men,Clothing,Ethnic Sets,4499.0,3149.0,30,4.6,720.0
+MYN00632,Nike Men Casual Shoes,Nike,Men,Footwear,Casual Shoes,5999.0,4199.0,30,4.4,1780.0
+MYN00633,Skechers Women Sports Shoes,Skechers,Women,Footwear,Sports Shoes,8499.0,5524.0,35,4.6,3415.0
+MYN00634,Levis Men Jeans,Levis,Men,Clothing,Jeans,4299.0,2579.0,40,4.3,1890.0
+MYN00635,HRX Women Track Pants,HRX,Women,Clothing,Track Pants,2299.0,1379.0,40,4.2,490.0
+MYN00636,H&M Men T-Shirt,H&M,Men,Clothing,T-Shirts,1799.0,1079.0,40,4.1,920.0
+MYN00637,Adidas Women Sports T-Shirt,Adidas,Women,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1480.0
+MYN00638,Puma Men Training Track Pants,Puma,Men,Clothing,Track Pants,2699.0,1619.0,40,4.2,740.0
+MYN00639,Biba Women Saree,Biba,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,680.0
+MYN00640,Libas Women Ethnic Dress,Libas,Women,Clothing,Ethnic Dresses,2999.0,1799.0,40,4.2,390.0
+MYN00641,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,210.0
+MYN00642,Reebok Men Sports Shoes,Reebok,Men,Footwear,Sports Shoes,6999.0,4199.0,40,4.3,1670.0
+MYN00643,Nike Women Sports T-Shirt,Nike,Women,Clothing,T-Shirts,2399.0,1439.0,40,4.5,1540.0
+MYN00644,Fabindia Men Kurta,Fabindia,Men,Clothing,Kurtas,2899.0,1739.0,40,4.4,520.0
+MYN00645,Peter England Men Blazer,Peter England,Men,Clothing,Blazers,6499.0,4549.0,30,4.5,340.0
+MYN00646,Van Heusen Women Tops,Van Heusen,Women,Clothing,Tops,2299.0,1609.0,30,4.2,270.0
+MYN00647,Roadster Women Jeans,Roadster,Women,Clothing,Jeans,3299.0,1814.0,45,4.1,790.0
+MYN00648,Max Men T-Shirt,Max,Men,Clothing,T-Shirts,1699.0,1019.0,40,4.0,410.0
+MYN00649,New Balance Women Casual Shoes,New Balance,Women,Footwear,Casual Shoes,6799.0,4759.0,30,4.5,1420.0
+MYN00650,ASICS Men Sports Shoes,ASICS,Men,Footwear,Sports Shoes,7999.0,5599.0,30,4.6,3415.0
+MYN00651,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2180.0
+MYN00652,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2599.0,1559.0,40,4.4,920.0
+MYN00653,Puma Men T-Shirt,Puma,Men,Clothing,T-Shirts,1799.0,1079.0,40,4.2,780.0
+MYN00654,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,610.0
+MYN00655,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7799.0,4679.0,40,4.6,3100.0
+MYN00656,Manyavar Men Kurta,Manyavar,Men,Clothing,Kurtas,2599.0,1819.0,30,4.5,580.0
+MYN00657,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,2230.0
+MYN00658,Levis Women Jeans,Levis,Women,Clothing,Jeans,3999.0,2399.0,40,4.3,1680.0
+MYN00659,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,720.0
+MYN00660,H&M Women Top,H&M,Women,Clothing,Tops,1599.0,959.0,40,4.1,450.0
+MYN00661,Adidas Women Sports Shoes,Adidas,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2790.0
+MYN00662,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4699.0,2819.0,40,4.2,1270.0
+MYN00663,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4499.0,2699.0,40,4.5,1010.0
+MYN00664,Libas Women Palazzos,Libas,Women,Clothing,Palazzos,1899.0,1139.0,40,4.2,370.0
+MYN00665,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,890.0
+MYN00666,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6299.0,3779.0,40,4.3,1130.0
+MYN00667,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3999.0,2799.0,30,4.5,410.0
+MYN00668,Peter England Men Shirt,Peter England,Men,Clothing,Shirts,2199.0,1539.0,30,4.3,680.0
+MYN00669,Van Heusen Men Trousers,Van Heusen,Men,Clothing,Trousers,3099.0,2169.0,30,4.4,620.0
+MYN00670,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,5299.0,3179.0,40,4.5,610.0
+MYN00671,Roadster Men Jacket,Roadster,Men,Clothing,Jackets,3999.0,2199.0,45,4.1,920.0
+MYN00672,Max Women Dress,Max,Women,Clothing,Dresses,2599.0,1559.0,40,4.1,520.0
+MYN00673,New Balance Men Sports Shoes,New Balance,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.6,2630.0
+MYN00674,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00675,Wrogn Men T-Shirt,Wrogn,Men,Clothing,T-Shirts,1899.0,1044.0,45,4.0,590.0
+MYN00676,Aurelia Women Kurta,Aurelia,Women,Clothing,Kurtas,2599.0,1559.0,40,4.4,640.0
+MYN00677,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,5299.0,3709.0,30,4.4,1390.0
+MYN00678,Biba Women Kurti,Biba,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,850.0
+MYN00679,Puma Women Track Pants,Puma,Women,Clothing,Track Pants,2599.0,1559.0,40,4.2,610.0
+MYN00680,Libas Women Ethnic Set,Libas,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,720.0
+MYN00681,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,10999.0,6749.0,30,4.7,260.0
+MYN00682,Nike Men T-Shirt,Nike,Men,Clothing,T-Shirts,2099.0,1259.0,40,4.4,1930.0
+MYN00683,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6799.0,4419.0,35,4.5,1730.0
+MYN00684,Levis Men Jeans,Levis,Men,Clothing,Jeans,4599.0,2759.0,40,4.4,2140.0
+MYN00685,HRX Women T-Shirt,HRX,Women,Clothing,T-Shirts,1899.0,1139.0,40,4.2,530.0
+MYN00686,H&M Men Shirt,H&M,Men,Clothing,Shirts,2199.0,1319.0,40,4.1,810.0
+MYN00687,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2799.0,1679.0,40,4.2,720.0
+MYN00688,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6499.0,3899.0,40,4.4,2380.0
+MYN00689,Biba Women Saree,Biba,Women,Clothing,Sarees,4699.0,2819.0,40,4.5,740.0
+MYN00690,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2799.0,1679.0,40,4.4,590.0
+MYN00691,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3699.0,2589.0,30,4.5,360.0
+MYN00692,Reebok Men Track Pants,Reebok,Men,Clothing,Track Pants,2599.0,1559.0,40,4.1,650.0
+MYN00693,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7299.0,4379.0,40,4.5,2480.0
+MYN00694,Fabindia Men Kurta,Fabindia,Men,Clothing,Kurtas,2999.0,1799.0,40,4.4,460.0
+MYN00695,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4299.0,3009.0,30,4.3,620.0
+MYN00696,Van Heusen Women Trousers,Van Heusen,Women,Clothing,Trousers,3299.0,2309.0,30,4.2,420.0
+MYN00697,Roadster Women Jacket,Roadster,Women,Clothing,Jackets,3699.0,2034.0,45,4.1,820.0
+MYN00698,Max Men Shirt,Max,Men,Clothing,Shirts,1999.0,1199.0,40,4.0,450.0
+MYN00699,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7699.0,5389.0,30,4.6,2290.0
+MYN00700,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8799.0,6159.0,30,4.7,3415.0
+MYN00701,Adidas Men Sports Shoes,Adidas,Men,Footwear,Sports Shoes,7299.0,5109.0,30,4.5,2210.0
+MYN00702,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,960.0
+MYN00703,Puma Men T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,820.0
+MYN00704,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2599.0,1559.0,40,4.3,670.0
+MYN00705,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,3200.0
+MYN00706,Manyavar Men Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,650.0
+MYN00707,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7499.0,4874.0,35,4.4,2310.0
+MYN00708,Levis Women Jeans,Levis,Women,Clothing,Jeans,4399.0,2639.0,40,4.3,1810.0
+MYN00709,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2599.0,1559.0,40,4.2,760.0
+MYN00710,H&M Women Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,490.0
+MYN00711,Adidas Women Sports Shoes,Adidas,Women,Footwear,Sports Shoes,7799.0,5459.0,30,4.5,3060.0
+MYN00712,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4899.0,2939.0,40,4.2,1320.0
+MYN00713,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4599.0,2759.0,40,4.5,1040.0
+MYN00714,Libas Women Palazzos,Libas,Women,Clothing,Palazzos,2099.0,1259.0,40,4.2,390.0
+MYN00715,Nike Men Track Pants,Nike,Men,Clothing,Track Pants,3099.0,2169.0,30,4.3,950.0
+MYN00716,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,1210.0
+MYN00717,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,5499.0,3849.0,30,4.6,480.0
+MYN00718,Peter England Men Shirt,Peter England,Men,Clothing,Shirts,2299.0,1609.0,30,4.3,710.0
+MYN00719,Van Heusen Men Trousers,Van Heusen,Men,Clothing,Trousers,3199.0,2239.0,30,4.4,650.0
+MYN00720,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,5499.0,3299.0,40,4.5,640.0
+MYN00721,Roadster Men Jacket,Roadster,Men,Clothing,Jackets,4199.0,2364.0,45,4.1,950.0
+MYN00722,Max Women Dress,Max,Women,Clothing,Dresses,2899.0,1739.0,40,4.1,560.0
+MYN00723,New Balance Men Sports Shoes,New Balance,Men,Footwear,Sports Shoes,9299.0,6509.0,30,4.6,2760.0
+MYN00724,ASICS Women Sports Shoes,ASICS,Women,Footwear,Sports Shoes,8299.0,5809.0,30,4.7,3415.0
+MYN00725,Wrogn Men T-Shirt,Wrogn,Men,Clothing,T-Shirts,1999.0,1099.0,45,4.0,630.0
+MYN00726,Aurelia Women Kurta,Aurelia,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,670.0
+MYN00727,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,5499.0,3849.0,30,4.4,1450.0
+MYN00728,Biba Women Kurti,Biba,Women,Clothing,Kurtis,2499.0,1499.0,40,4.3,880.0
+MYN00729,Puma Women Track Pants,Puma,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,640.0
+MYN00730,Libas Women Ethnic Set,Libas,Women,Clothing,Ethnic Sets,4199.0,2519.0,40,4.5,760.0
+MYN00731,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,310.0
+MYN00732,Nike Men T-Shirt,Nike,Men,Clothing,T-Shirts,2299.0,1379.0,40,4.4,2150.0
+MYN00733,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,7199.0,4679.0,35,4.5,1900.0
+MYN00734,Levis Men Jeans,Levis,Men,Clothing,Jeans,4999.0,2999.0,40,4.4,2370.0
+MYN00735,HRX Women T-Shirt,HRX,Women,Clothing,T-Shirts,2099.0,1259.0,40,4.2,610.0
+MYN00736,H&M Men Shirt,H&M,Men,Clothing,Shirts,2399.0,1439.0,40,4.1,890.0
+MYN00737,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2999.0,1799.0,40,4.2,820.0
+MYN00738,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6999.0,4199.0,40,4.4,2640.0
+MYN00739,Biba Women Saree,Biba,Women,Clothing,Sarees,4899.0,2939.0,40,4.5,830.0
+MYN00740,Libas Women Kurta,Libas,Women,Clothing,Kurtas,2999.0,1799.0,40,4.4,650.0
+MYN00741,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,4099.0,2869.0,30,4.5,400.0
+MYN00742,Reebok Men Track Pants,Reebok,Men,Clothing,Track Pants,2799.0,1679.0,40,4.1,730.0
+MYN00743,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7699.0,4619.0,40,4.5,2710.0
+MYN00744,Fabindia Men Kurta,Fabindia,Men,Clothing,Kurtas,3199.0,1919.0,40,4.4,520.0
+MYN00745,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4699.0,3289.0,30,4.3,690.0
+MYN00746,Van Heusen Women Trousers,Van Heusen,Women,Clothing,Trousers,3499.0,2449.0,30,4.2,480.0
+MYN00747,Roadster Women Jacket,Roadster,Women,Clothing,Jackets,3999.0,2199.0,45,4.1,900.0
+MYN00748,Max Men Shirt,Max,Men,Clothing,Shirts,2199.0,1319.0,40,4.0,490.0
+MYN00749,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,8099.0,5669.0,30,4.6,2530.0
+MYN00750,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,9299.0,6509.0,30,4.7,3415.0
+MYN00751,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN00752,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN00753,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN00754,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN00755,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN00756,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN00757,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN00758,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00759,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN00760,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN00761,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN00762,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN00763,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN00764,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN00765,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN00766,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN00767,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN00768,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN00769,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN00770,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN00771,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN00772,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN00773,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN00774,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00775,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN00776,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN00777,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN00778,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN00779,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN00780,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN00781,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN00782,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN00783,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN00784,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN00785,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN00786,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN00787,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN00788,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN00789,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN00790,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN00791,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN00792,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN00793,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN00794,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN00795,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN00796,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN00797,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN00798,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN00799,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN00800,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00801,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2180.0
+MYN00802,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,870.0
+MYN00803,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,740.0
+MYN00804,Libas Women Straight Kurti,Libas,Women,Clothing,Sports Shoes,2299.0,1379.0,40,4.3,620.0
+MYN00805,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.6,2870.0
+MYN00806,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2799.0,1959.0,30,4.5,740.0
+MYN00807,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6999.0,4549.0,35,4.4,790.0
+MYN00808,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00809,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2399.0,1439.0,40,4.2,680.0
+MYN00810,H&M Women Casual Top,H&M,Women,Clothing,Tops,1699.0,1019.0,40,4.1,790.0
+MYN00811,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,2219.0,30,4.5,2980.0
+MYN00812,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,1160.0
+MYN00813,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,980.0
+MYN00814,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.3,410.0
+MYN00815,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2799.0,1959.0,30,4.3,840.0
+MYN00816,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,790.0
+MYN00817,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,510.0
+MYN00818,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,730.0
+MYN00819,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,610.0
+MYN00820,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,580.0
+MYN00821,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,940.0
+MYN00822,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,490.0
+MYN00823,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2410.0
+MYN00824,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00825,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,520.0
+MYN00826,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,710.0
+MYN00827,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1320.0
+MYN00828,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,810.0
+MYN00829,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,570.0
+MYN00830,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,690.0
+MYN00831,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,280.0
+MYN00832,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1870.0
+MYN00833,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1680.0
+MYN00834,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2030.0
+MYN00835,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,490.0
+MYN00836,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,760.0
+MYN00837,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,680.0
+MYN00838,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2290.0
+MYN00839,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,720.0
+MYN00840,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,560.0
+MYN00841,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,390.0
+MYN00842,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,620.0
+MYN00843,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2340.0
+MYN00844,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,430.0
+MYN00845,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,570.0
+MYN00846,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,390.0
+MYN00847,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,760.0
+MYN00848,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,480.0
+MYN00849,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2180.0
+MYN00850,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00851,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,699.0,90,4.5,2150.0
+MYN00852,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,890.0
+MYN00853,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,740.0
+MYN00854,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2299.0,1379.0,40,4.3,620.0
+MYN00855,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.4,2870.0
+MYN00856,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2799.0,1959.0,30,4.5,740.0
+MYN00857,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6999.0,4549.0,35,4.4,790.0
+MYN00858,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00859,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2399.0,1439.0,40,4.2,790.0
+MYN00860,H&M Women Casual Top,H&M,Women,Clothing,Tops,1699.0,1019.0,40,4.1,520.0
+MYN00861,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,6749.0,30,4.5,2980.0
+MYN00862,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,1160.0
+MYN00863,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,980.0
+MYN00864,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,410.0
+MYN00865,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2799.0,1959.0,30,4.3,840.0
+MYN00866,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN00867,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,510.0
+MYN00868,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,730.0
+MYN00869,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,610.0
+MYN00870,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,580.0
+MYN00871,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,940.0
+MYN00872,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,490.0
+MYN00873,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2410.0
+MYN00874,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00875,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,520.0
+MYN00876,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,710.0
+MYN00877,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1320.0
+MYN00878,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,810.0
+MYN00879,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,570.0
+MYN00880,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,690.0
+MYN00881,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,280.0
+MYN00882,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1870.0
+MYN00883,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1680.0
+MYN00884,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2030.0
+MYN00885,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,490.0
+MYN00886,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,760.0
+MYN00887,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,680.0
+MYN00888,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2290.0
+MYN00889,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,720.0
+MYN00890,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,560.0
+MYN00891,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,390.0
+MYN00892,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,620.0
+MYN00893,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2340.0
+MYN00894,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,430.0
+MYN00895,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,570.0
+MYN00896,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,390.0
+MYN00897,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,760.0
+MYN00898,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,480.0
+MYN00899,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2180.0
+MYN00900,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00901,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN00902,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN00903,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN00904,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN00905,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN00906,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN00907,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN00908,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00909,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN00910,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN00911,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN00912,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN00913,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN00914,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN00915,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN00916,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN00917,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN00918,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN00919,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN00920,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN00921,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN00922,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN00923,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN00924,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00925,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN00926,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN00927,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN00928,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN00929,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN00930,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN00931,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN00932,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN00933,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN00934,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN00935,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN00936,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN00937,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN00938,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN00939,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN00940,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN00941,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN00942,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN00943,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN00944,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN00945,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN00946,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN00947,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN00948,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN00949,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN00950,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN00951,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2180.0
+MYN00952,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,870.0
+MYN00953,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,740.0
+MYN00954,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2299.0,1379.0,40,4.3,620.0
+MYN00955,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.6,2870.0
+MYN00956,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2799.0,1959.0,30,4.5,740.0
+MYN00957,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6999.0,4549.0,35,4.4,790.0
+MYN00958,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN00959,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2399.0,1439.0,40,4.2,680.0
+MYN00960,H&M Women Casual Top,H&M,Women,Clothing,Tops,1699.0,1019.0,40,4.1,520.0
+MYN00961,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,2980.0
+MYN00962,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,1160.0
+MYN00963,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,980.0
+MYN00964,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,410.0
+MYN00965,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2799.0,1959.0,30,4.3,840.0
+MYN00966,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN00967,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,510.0
+MYN00968,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,730.0
+MYN00969,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,610.0
+MYN00970,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,580.0
+MYN00971,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,940.0
+MYN00972,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,490.0
+MYN00973,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2410.0
+MYN00974,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN00975,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,520.0
+MYN00976,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,710.0
+MYN00977,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1320.0
+MYN00978,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,810.0
+MYN00979,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,570.0
+MYN00980,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,690.0
+MYN00981,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,280.0
+MYN00982,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1870.0
+MYN00983,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1680.0
+MYN00984,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2030.0
+MYN00985,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,490.0
+MYN00986,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,760.0
+MYN00987,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,680.0
+MYN00988,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2290.0
+MYN00989,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,720.0
+MYN00990,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,560.0
+MYN00991,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,390.0
+MYN00992,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,620.0
+MYN00993,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2340.0
+MYN00994,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,430.0
+MYN00995,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,570.0
+MYN00996,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,390.0
+MYN00997,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,760.0
+MYN00998,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,480.0
+MYN00999,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2180.0
+MYN01000,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01001,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN01002,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN01003,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN01004,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN01005,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN01006,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN01007,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN01008,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01009,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN01010,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN01011,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN01012,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN01013,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN01014,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN01015,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN01016,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN01017,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN01018,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN01019,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN01020,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN01021,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN01022,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN01023,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN01024,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01025,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN01026,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN01027,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN01028,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN01029,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN01030,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN01031,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN01032,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN01033,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN01034,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN01035,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN01036,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN01037,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN01038,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN01039,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN01040,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN01041,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN01042,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN01043,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN01044,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN01045,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN01046,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN01047,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN01048,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN01049,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN01050,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01051,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN01052,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN01053,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN01054,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN01055,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN01056,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN01057,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN01058,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01059,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN01060,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN01061,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN01062,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN01063,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN01064,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN01065,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN01066,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN01067,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN01068,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN01069,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN01070,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN01071,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN01072,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN01073,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN01074,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01075,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN01076,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN01077,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN01078,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN01079,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN01080,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN01081,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN01082,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN01083,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN01084,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN01085,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN01086,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN01087,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN01088,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN01089,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN01090,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN01091,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN01092,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN01093,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN01094,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN01095,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN01096,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN01097,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN01098,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN01099,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN01100,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01101,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,2400.0
+MYN01102,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2899.0,1739.0,40,4.4,1020.0
+MYN01103,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.2,810.0
+MYN01104,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2499.0,1499.0,40,4.3,720.0
+MYN01105,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,8999.0,5399.0,40,4.6,3110.0
+MYN01106,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,3299.0,2309.0,30,4.5,790.0
+MYN01107,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7999.0,5199.0,35,4.4,2120.0
+MYN01108,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4999.0,2999.0,40,4.3,1890.0
+MYN01109,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2699.0,1619.0,40,4.2,830.0
+MYN01110,H&M Women Casual Top,H&M,Women,Clothing,Tops,1999.0,1199.0,40,4.1,610.0
+MYN01111,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,8499.0,5949.0,30,4.5,3200.0
+MYN01112,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4999.0,2999.0,40,4.2,1260.0
+MYN01113,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4299.0,2579.0,40,4.5,1040.0
+MYN01114,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,2199.0,1319.0,40,4.2,490.0
+MYN01115,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,3199.0,2239.0,30,4.3,910.0
+MYN01116,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6499.0,3899.0,40,4.3,1380.0
+MYN01117,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,5999.0,4199.0,30,4.6,610.0
+MYN01118,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2699.0,1889.0,30,4.3,820.0
+MYN01119,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,3299.0,2309.0,30,4.4,750.0
+MYN01120,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,5999.0,3599.0,40,4.5,690.0
+MYN01121,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3999.0,2199.0,45,4.1,1040.0
+MYN01122,Max Women Printed Dress,Max,Women,Clothing,Dresses,2999.0,1799.0,40,4.1,580.0
+MYN01123,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,9499.0,6649.0,30,4.6,2700.0
+MYN01124,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01125,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1999.0,1099.0,45,4.0,630.0
+MYN01126,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,790.0
+MYN01127,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,5499.0,3849.0,30,4.4,1510.0
+MYN01128,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,910.0
+MYN01129,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2799.0,1679.0,40,4.2,640.0
+MYN01130,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,780.0
+MYN01131,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,340.0
+MYN01132,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2399.0,1439.0,40,4.4,2050.0
+MYN01133,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6999.0,4549.0,35,4.5,1880.0
+MYN01134,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4999.0,2999.0,40,4.4,2210.0
+MYN01135,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1999.0,1199.0,40,4.2,570.0
+MYN01136,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,2199.0,1319.0,40,4.1,860.0
+MYN01137,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2999.0,1799.0,40,4.2,750.0
+MYN01138,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6499.0,3899.0,40,4.4,2510.0
+MYN01139,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,830.0
+MYN01140,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2899.0,1739.0,40,4.4,640.0
+MYN01141,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,4299.0,3009.0,30,4.5,470.0
+MYN01142,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2799.0,1679.0,40,4.1,710.0
+MYN01143,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.5,2590.0
+MYN01144,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2999.0,1799.0,40,4.4,510.0
+MYN01145,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4499.0,3149.0,30,4.3,650.0
+MYN01146,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3499.0,2449.0,30,4.2,450.0
+MYN01147,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3999.0,2199.0,45,4.1,850.0
+MYN01148,Max Men Casual Shirt,Max,Men,Clothing,Shirts,2099.0,1259.0,40,4.0,530.0
+MYN01149,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2390.0
+MYN01150,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,9999.0,6749.0,30,4.7,3415.0
+MYN01151,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.5,2510.0
+MYN01152,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2999.0,1799.0,40,4.4,1100.0
+MYN01153,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,2399.0,1439.0,40,4.2,880.0
+MYN01154,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2699.0,1619.0,40,4.3,770.0
+MYN01155,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,9999.0,5999.0,40,4.6,3290.0
+MYN01156,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,3499.0,2449.0,30,4.5,830.0
+MYN01157,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,8499.0,5524.0,35,4.4,2290.0
+MYN01158,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,5299.0,3179.0,40,4.3,2010.0
+MYN01159,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2899.0,1739.0,40,4.2,910.0
+MYN01160,H&M Women Casual Top,H&M,Women,Clothing,Tops,2199.0,1319.0,40,4.1,680.0
+MYN01161,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,9499.0,6649.0,30,4.5,3380.0
+MYN01162,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,5499.0,3299.0,40,4.2,1390.0
+MYN01163,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,4499.0,2699.0,40,4.5,1170.0
+MYN01164,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,2399.0,1439.0,40,4.2,530.0
+MYN01165,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,3499.0,2449.0,30,4.3,980.0
+MYN01166,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.3,1510.0
+MYN01167,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,6499.0,4549.0,30,4.6,680.0
+MYN01168,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2899.0,2029.0,30,4.3,890.0
+MYN01169,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,3599.0,2519.0,30,4.4,810.0
+MYN01170,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,6499.0,3899.0,40,4.5,750.0
+MYN01171,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,4299.0,2364.0,45,4.1,1120.0
+MYN01172,Max Women Printed Dress,Max,Women,Clothing,Dresses,3299.0,1979.0,40,4.1,640.0
+MYN01173,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,10499.0,6749.0,30,4.6,2910.0
+MYN01174,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,9999.0,6749.0,30,4.7,3415.0
+MYN01175,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,2199.0,1209.0,45,4.0,710.0
+MYN01176,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2899.0,1739.0,40,4.4,850.0
+MYN01177,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,5999.0,4199.0,30,4.4,1640.0
+MYN01178,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2599.0,1559.0,40,4.3,970.0
+MYN01179,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2999.0,1799.0,40,4.2,690.0
+MYN01180,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,4299.0,2579.0,40,4.5,840.0
+MYN01181,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,11249.0,6749.0,30,4.7,380.0
+MYN01182,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2599.0,1559.0,40,4.4,2180.0
+MYN01183,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,7499.0,4874.0,35,4.5,2010.0
+MYN01184,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,5499.0,3299.0,40,4.4,2390.0
+MYN01185,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,2199.0,1319.0,40,4.2,630.0
+MYN01186,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,2399.0,1439.0,40,4.1,930.0
+MYN01187,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,3299.0,1979.0,40,4.2,820.0
+MYN01188,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,6999.0,4199.0,40,4.4,2690.0
+MYN01189,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,5499.0,3299.0,40,4.5,910.0
+MYN01190,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,3099.0,1859.0,40,4.4,710.0
+MYN01191,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,4799.0,3359.0,30,4.5,520.0
+MYN01192,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2999.0,1799.0,40,4.1,790.0
+MYN01193,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,8499.0,5099.0,40,4.5,2780.0
+MYN01194,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,3299.0,1979.0,40,4.4,590.0
+MYN01195,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,4999.0,3499.0,30,4.3,720.0
+MYN01196,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3799.0,2659.0,30,4.2,510.0
+MYN01197,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,4499.0,2474.0,45,4.1,920.0
+MYN01198,Max Men Casual Shirt,Max,Men,Clothing,Shirts,2299.0,1379.0,40,4.0,590.0
+MYN01199,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,9499.0,6649.0,30,4.6,2610.0
+MYN01200,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,10999.0,6749.0,30,4.7,3415.0
+MYN01201,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN01202,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN01203,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN01204,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN01205,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN01206,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN01207,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN01208,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01209,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN01210,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN01211,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN01212,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN01213,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN01214,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN01215,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN01216,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN01217,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN01218,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN01219,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN01220,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN01221,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN01222,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN01223,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN01224,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01225,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN01226,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN01227,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN01228,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN01229,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN01230,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN01231,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN01232,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN01233,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN01234,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN01235,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN01236,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN01237,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN01238,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN01239,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN01240,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN01241,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN01242,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN01243,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN01244,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN01245,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN01246,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN01247,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN01248,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN01249,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN01250,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01251,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,6999.0,4899.0,30,4.5,2180.0
+MYN01252,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,870.0
+MYN01253,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,740.0
+MYN01254,Libas Women Straight Kurti,Libas,Women,Clothing,Sports Shoes,2299.0,1379.0,40,4.3,620.0
+MYN01255,Nike Women Sports Shoes,Nike,Women,Footwear,Sports Shoes,7499.0,4499.0,40,4.4,2870.0
+MYN01256,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2799.0,1959.0,30,4.5,740.0
+MYN01257,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,6999.0,4549.0,35,4.4,790.0
+MYN01258,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01259,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2399.0,1439.0,40,4.2,680.0
+MYN01260,H&M Women Casual Top,H&M,Women,Clothing,Tops,1699.0,1019.0,40,4.1,790.0
+MYN01261,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,2219.0,30,4.5,2980.0
+MYN01262,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4499.0,2699.0,40,4.2,1160.0
+MYN01263,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,980.0
+MYN01264,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,410.0
+MYN01265,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2799.0,1959.0,30,4.3,840.0
+MYN01266,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,790.0
+MYN01267,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,510.0
+MYN01268,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,730.0
+MYN01269,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,610.0
+MYN01270,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,580.0
+MYN01271,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,940.0
+MYN01272,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,490.0
+MYN01273,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2410.0
+MYN01274,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01275,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,520.0
+MYN01276,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,710.0
+MYN01277,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1320.0
+MYN01278,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,810.0
+MYN01279,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,570.0
+MYN01280,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,690.0
+MYN01281,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,280.0
+MYN01282,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1870.0
+MYN01283,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1680.0
+MYN01284,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2030.0
+MYN01285,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,490.0
+MYN01286,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,760.0
+MYN01287,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,680.0
+MYN01288,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2290.0
+MYN01289,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,720.0
+MYN01290,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,560.0
+MYN01291,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,390.0
+MYN01292,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,620.0
+MYN01293,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2340.0
+MYN01294,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,430.0
+MYN01295,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,570.0
+MYN01296,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,390.0
+MYN01297,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,760.0
+MYN01298,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,480.0
+MYN01299,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2180.0
+MYN01300,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01301,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN01302,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN01303,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN01304,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN01305,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN01306,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN01307,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN01308,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01309,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN01310,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN01311,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN01312,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN01313,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN01314,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN01315,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN01316,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN01317,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN01318,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN01319,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN01320,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN01321,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN01322,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN01323,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN01324,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01325,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN01326,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN01327,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN01328,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN01329,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN01330,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN01331,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN01332,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN01333,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN01334,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN01335,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN01336,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN01337,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN01338,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN01339,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN01340,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN01341,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN01342,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN01343,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN01344,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN01345,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN01346,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN01347,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN01348,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN01349,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN01350,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01351,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN01352,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN01353,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN01354,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN01355,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN01356,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN01357,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN01358,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01359,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN01360,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN01361,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN01362,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN01363,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN01364,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN01365,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN01366,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN01367,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN01368,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN01369,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN01370,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN01371,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN01372,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN01373,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN01374,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01375,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN01376,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN01377,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN01378,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN01379,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN01380,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN01381,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN01382,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN01383,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN01384,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN01385,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN01386,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN01387,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN01388,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN01389,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN01390,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN01391,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN01392,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN01393,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN01394,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN01395,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN01396,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN01397,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN01398,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN01399,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN01400,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01401,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN01402,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN01403,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN01404,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN01405,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN01406,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN01407,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN01408,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01409,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN01410,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN01411,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN01412,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN01413,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN01414,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN01415,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN01416,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN01417,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN01418,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN01419,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN01420,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN01421,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN01422,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN01423,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN01424,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01425,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN01426,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN01427,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN01428,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN01429,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN01430,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN01431,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN01432,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN01433,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN01434,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN01435,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN01436,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN01437,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN01438,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN01439,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN01440,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN01441,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN01442,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN01443,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN01444,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN01445,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN01446,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN01447,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN01448,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN01449,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN01450,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
+MYN01451,Adidas Men Running Shoes,Adidas,Men,Footwear,Sports Shoes,7499.0,5249.0,30,4.5,2310.0
+MYN01452,Biba Women Printed Kurta,Biba,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,980.0
+MYN01453,Puma Men Training T-Shirt,Puma,Men,Clothing,T-Shirts,1999.0,1199.0,40,4.2,760.0
+MYN01454,Libas Women Straight Kurti,Libas,Women,Clothing,Kurtis,2399.0,1439.0,40,4.3,650.0
+MYN01455,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,7999.0,4799.0,40,4.6,2890.0
+MYN01456,Manyavar Men Printed Kurta,Manyavar,Men,Clothing,Kurtas,2899.0,2029.0,30,4.5,720.0
+MYN01457,Skechers Men Walking Shoes,Skechers,Men,Footwear,Walking Shoes,7299.0,4744.0,35,4.4,1980.0
+MYN01458,Levis Women Straight Jeans,Levis,Women,Clothing,Jeans,4299.0,2579.0,40,4.3,1740.0
+MYN01459,HRX Men Track Pants,HRX,Men,Clothing,Track Pants,2499.0,1499.0,40,4.2,710.0
+MYN01460,H&M Women Casual Top,H&M,Women,Clothing,Tops,1799.0,1079.0,40,4.1,520.0
+MYN01461,Adidas Women Running Shoes,Adidas,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.5,3020.0
+MYN01462,Puma Men Casual Shoes,Puma,Men,Footwear,Casual Shoes,4599.0,2759.0,40,4.2,1180.0
+MYN01463,Biba Women Ethnic Set,Biba,Women,Clothing,Ethnic Sets,3999.0,2399.0,40,4.5,920.0
+MYN01464,Libas Women Printed Palazzos,Libas,Women,Clothing,Palazzos,1999.0,1199.0,40,4.2,430.0
+MYN01465,Nike Men Training Track Pants,Nike,Men,Clothing,Track Pants,2899.0,2029.0,30,4.3,850.0
+MYN01466,Reebok Women Sports Shoes,Reebok,Women,Footwear,Sports Shoes,5999.0,3599.0,40,4.3,1290.0
+MYN01467,Manyavar Men Nehru Jacket,Manyavar,Men,Clothing,Nehru Jackets,4999.0,3499.0,30,4.6,530.0
+MYN01468,Peter England Men Formal Shirt,Peter England,Men,Clothing,Shirts,2399.0,1679.0,30,4.3,760.0
+MYN01469,Van Heusen Men Formal Trousers,Van Heusen,Men,Clothing,Trousers,2999.0,2099.0,30,4.4,680.0
+MYN01470,Fabindia Women Saree,Fabindia,Women,Clothing,Sarees,4999.0,2999.0,40,4.5,620.0
+MYN01471,Roadster Men Denim Jacket,Roadster,Men,Clothing,Jackets,3599.0,1979.0,45,4.1,950.0
+MYN01472,Max Women Printed Dress,Max,Women,Clothing,Dresses,2799.0,1679.0,40,4.1,510.0
+MYN01473,New Balance Men Running Shoes,New Balance,Men,Footwear,Sports Shoes,8499.0,5949.0,30,4.6,2490.0
+MYN01474,ASICS Women Running Shoes,ASICS,Women,Footwear,Sports Shoes,7999.0,5599.0,30,4.7,3415.0
+MYN01475,Wrogn Men Printed T-Shirt,Wrogn,Men,Clothing,T-Shirts,1799.0,989.0,45,4.0,550.0
+MYN01476,Aurelia Women Printed Kurta,Aurelia,Women,Clothing,Kurtas,2499.0,1499.0,40,4.4,720.0
+MYN01477,Adidas Men Casual Shoes,Adidas,Men,Footwear,Casual Shoes,4999.0,3499.0,30,4.4,1380.0
+MYN01478,Biba Women Cotton Kurti,Biba,Women,Clothing,Kurtis,2199.0,1319.0,40,4.3,830.0
+MYN01479,Puma Women Training Track Pants,Puma,Women,Clothing,Track Pants,2499.0,1499.0,40,4.2,590.0
+MYN01480,Libas Women Ethnic Kurta Set,Libas,Women,Clothing,Ethnic Sets,3799.0,2279.0,40,4.5,710.0
+MYN01481,Manyavar Men Sherwani,Manyavar,Men,Clothing,Sherwanis,9999.0,6749.0,30,4.7,290.0
+MYN01482,Nike Men Sports T-Shirt,Nike,Men,Clothing,T-Shirts,2199.0,1319.0,40,4.4,1890.0
+MYN01483,Skechers Women Casual Shoes,Skechers,Women,Footwear,Casual Shoes,6499.0,4224.0,35,4.5,1720.0
+MYN01484,Levis Men Slim Fit Jeans,Levis,Men,Clothing,Jeans,4499.0,2699.0,40,4.4,2070.0
+MYN01485,HRX Women Sports T-Shirt,HRX,Women,Clothing,T-Shirts,1799.0,1079.0,40,4.2,510.0
+MYN01486,H&M Men Casual Shirt,H&M,Men,Clothing,Shirts,1999.0,1199.0,40,4.1,790.0
+MYN01487,Adidas Women Track Pants,Adidas,Women,Clothing,Track Pants,2699.0,1619.0,40,4.2,690.0
+MYN01488,Puma Men Sports Shoes,Puma,Men,Footwear,Sports Shoes,5999.0,3599.0,40,4.4,2310.0
+MYN01489,Biba Women Printed Saree,Biba,Women,Clothing,Sarees,4499.0,2699.0,40,4.5,760.0
+MYN01490,Libas Women Printed Kurta,Libas,Women,Clothing,Kurtas,2699.0,1619.0,40,4.4,580.0
+MYN01491,Manyavar Men Waistcoat,Manyavar,Men,Clothing,Waistcoats,3799.0,2659.0,30,4.5,420.0
+MYN01492,Reebok Men Training Track Pants,Reebok,Men,Clothing,Track Pants,2499.0,1499.0,40,4.1,650.0
+MYN01493,Nike Women Running Shoes,Nike,Women,Footwear,Sports Shoes,6999.0,4199.0,40,4.5,2410.0
+MYN01494,Fabindia Men Cotton Kurta,Fabindia,Men,Clothing,Kurtas,2599.0,1559.0,40,4.4,450.0
+MYN01495,Peter England Men Formal Shoes,Peter England,Men,Footwear,Formal Shoes,3999.0,2799.0,30,4.3,590.0
+MYN01496,Van Heusen Women Formal Trousers,Van Heusen,Women,Clothing,Trousers,3199.0,2239.0,30,4.2,410.0
+MYN01497,Roadster Women Casual Jacket,Roadster,Women,Clothing,Jackets,3499.0,1924.0,45,4.1,790.0
+MYN01498,Max Men Casual Shirt,Max,Men,Clothing,Shirts,1899.0,1139.0,40,4.0,490.0
+MYN01499,New Balance Women Sports Shoes,New Balance,Women,Footwear,Sports Shoes,7499.0,5249.0,30,4.6,2210.0
+MYN01500,ASICS Men Running Shoes,ASICS,Men,Footwear,Sports Shoes,8999.0,6299.0,30,4.7,3415.0
