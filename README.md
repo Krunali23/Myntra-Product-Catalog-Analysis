@@ -1,120 +1,214 @@
-# 🛍️ Myntra Product Catalog Analysis
+# Myntra Product Catalog Analysis: End-to-End Data Analytics Project
 
-### Turning E-Commerce Product Data into Meaningful Insights
+## 📌 Project Overview
 
-## 👋 About This Repository
+This project focuses on analyzing Myntra product catalog data using data analytics, SQL, Excel, machine learning, and data visualization.
 
-Welcome to my data analytics project repository!
+The project aims to transform raw product data into meaningful business insights by exploring product pricing, discounts, customer ratings, brand performance, and product categories.
 
-This repository is where I document my journey of exploring real-world data, discovering useful patterns, and developing analytical skills through practical projects.
+The repository is organized into multiple parts, with each part focusing on a different stage of the data analytics workflow.
 
-My current project focuses on Myntra product catalog data. Using Python and data visualization libraries, I explored product pricing, discounts, customer ratings, and brand-level trends. I plan to expand this project with SQL, Excel, and Power BI to build a complete data analytics portfolio.
+## 🎯 Project Objectives
 
-## 🎯 What I Want to Explore
+- Clean and preprocess the raw product catalog dataset.
+- Perform Exploratory Data Analysis (EDA) to identify patterns and trends.
+- Analyze product data using SQL to answer business-related questions.
+- Explore product pricing, discounts, ratings, and brand performance.
+- Apply machine learning techniques to suitable product-related prediction tasks.
+- Perform additional analysis using Microsoft Excel.
+- Develop an interactive Power BI dashboard.
+- Combine the different stages into an end-to-end data analytics project.
 
-- Understand the structure and quality of product data.
-- Prepare datasets for reliable analysis.
-- Discover patterns in product prices, ratings, and discounts.
-- Compare brands using meaningful analytical measures.
-- Translate charts and statistical results into business observations.
-- Present findings in a clear and understandable format.
+## 🗂️ Project Roadmap
 
-## 🚀 Project Progress
-
-| Stage | Focus Area | Progress |
+| Part | Project Stage | Status |
 |---|---|---|
-| 01 | Python EDA & Visualization | ✅ Completed |
-| 02 | SQL Queries & Business Questions | 🔄 Planned |
-| 03 | Excel-Based Analysis | 🔄 Planned |
-| 04 | Power BI Reporting | 🔄 Planned |
-| 05 | Advanced Python Analysis | 🔄 Planned |
-| 06 | Introduction to Machine Learning | 🔄 Planned |
+| Part 1 | Exploratory Data Analysis (EDA) | ✅ Completed |
+| Part 2 | SQL Analysis | ✅ Completed |
+| Part 3 | Machine Learning | 🔜 Upcoming |
+| Part 4 | Excel Analysis | 🔜 Upcoming |
+| Part 5 | Power BI Dashboard | 🔜 Upcoming |
 
-## 📈 Featured Project: Myntra EDA
+## 📊 Part 1: Exploratory Data Analysis (EDA)
 
-The first stage of this repository explores product catalog information to understand pricing behavior, discount patterns, ratings, and brand performance.
+### Problem Statement
 
-### Work Completed
+E-commerce platforms offer products across multiple brands and categories with different prices, discounts, and customer ratings. Analyzing this information can help identify pricing patterns, popular brands, product category trends, and customer rating distributions.
 
-- Inspected the dataset and checked data quality.
-- Handled missing values and duplicate records where applicable.
-- Standardized inconsistent text and category formats.
-- Examined numerical distributions and potential outliers.
-- Created visualizations to explore product-related patterns.
-- Summarized the findings into analytical observations.
-- Prepared a presentation to communicate the results.
+This part explores Myntra product catalog data to understand these patterns and derive meaningful business insights.
 
-### Highlights from the Analysis
+### Data Cleaning and Preprocessing
 
-- Discounts were frequently observed around the 30%–40% range.
-- Products with similar discount percentages could have very different selling prices.
-- MRP and selling price showed a strong positive relationship.
-- Brand comparisons helped explore differences in product ratings and representation.
-- Rating and rating-count distributions provided additional context about customer feedback.
+The dataset was prepared for analysis by checking data quality and handling relevant issues found during the cleaning process.
 
-These observations describe the dataset analyzed and should not be interpreted as conclusions about every product on Myntra.
+The workflow includes:
 
-## 🧰 Tools & Technologies
+- Checking missing values and duplicate records.
+- Examining and correcting data types where necessary.
+- Identifying inconsistencies in the dataset.
+- Analyzing numerical and categorical variables.
+- Preparing the dataset for exploratory analysis.
 
-**Currently used**
+### Exploratory Data Analysis
 
-- Python
-- Pandas and NumPy
-- Matplotlib and Seaborn
-- Jupyter Notebook
-- GitHub
+The analysis includes:
 
-  ## 📁 Project Structure
+- Distribution of product ratings.
+- Distribution of product prices and maximum retail prices (MRP).
+- Analysis of discount percentages.
+- Identification of top brands by product count.
+- Comparison of selling prices and MRP.
+- Analysis of ratings and rating counts.
+- Comparison of product pricing patterns across gender categories.
+- Identification of brands with high average ratings.
+
+### Key Findings
+
+- Discounts are commonly concentrated around the 30–40% range.
+- Products with similar discount percentages can have different selling prices.
+- Selling price and MRP comparisons reveal differences in product pricing.
+- Men’s and women’s products show broadly similar patterns in some price comparisons.
+- Rating counts show a right-skewed distribution, with a smaller number of products receiving substantially more ratings.
+- Average ratings vary across brands.
+
+### Business Insights
+
+- Comparing MRP, selling price, and discount percentages can help evaluate product pricing strategies.
+- Brand-level analysis can help identify brands with strong customer ratings.
+- Rating counts provide additional context when interpreting average ratings.
+- Category and gender comparisons can help identify differences in product pricing patterns.
+
+## 🗄️ Part 2: SQL Analysis
+
+### Problem Statement
+
+SQL provides a structured way to analyze product catalog data and answer business questions. This part uses MySQL to explore product categories, brands, pricing, discounts, and customer ratings.
+
+### Objectives
+
+- Load the prepared product dataset into a MySQL database.
+- Analyze product counts across brands and categories.
+- Calculate average, minimum, and maximum product prices.
+- Classify products into price segments using `CASE WHEN`.
+- Compare brand and category performance.
+- Use filtering, grouping, sorting, and aggregate functions.
+- Apply subqueries and window functions to answer analytical questions.
+- Generate useful insights from SQL query results.
+
+### SQL Skills Practised
+
+- `SELECT`, `WHERE`, and `DISTINCT`
+- `ORDER BY` and `LIMIT`
+- Aggregate functions such as `COUNT()`, `AVG()`, `MIN()`, and `MAX()`
+- `GROUP BY` and `HAVING`
+- `CASE WHEN` statements
+- Subqueries
+- Joins, where required
+- Common Table Expressions (CTEs), where applicable
+- Window functions, where applicable
+
+### Business Questions
+
+The SQL analysis can explore questions such as:
+
+- Which brands have the highest number of products?
+- Which product categories have the highest average prices?
+- How are products distributed across price segments?
+- Which brands have the highest average customer ratings?
+- How do selling prices vary across categories?
+- Which products have the highest discount percentages?
+- How do customer ratings vary across brands and categories?
+
+*The final questions and findings should match the SQL queries actually implemented in the project.*
+
+## 🛠️ Technology Stack
+
+- **Programming Language:** Python
+- **Data Manipulation:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Database:** MySQL
+- **SQL Environment:** MySQL Workbench
+- **Development Environment:** Jupyter Notebook
+- **Additional Tools:** Microsoft Excel and Power BI (planned)
+
+## 📁 Project Structure
 
 ```text
-Myntra-Product-Catalog-Analysis/
+myntra-product-catalog-analysis/
 │
 ├── README.md
+├── requirements.txt
 │
-├── EDA-Part-1/
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── Part-1-EDA/
 │   ├── README.md
-│   ├── Myntra_EDA.ipynb
-│   └── Myntra_EDA_Presentation.ppt
+│   ├── Myntra_EDA_Project.ipynb
+│   └── Myntra_EDA_Project.pptx
 │
-├── SQL-Part-2/
-├── Excel-Part-3/
-├── Power-BI-Part-4/
-├── Python-Part-5/
-└── Machine-Learning-Part-6/
+├── Part-2-SQL/
+│   ├── README.md
+│   ├── Myntra_SQL_Project.sql
+│   └── Myntra_SQL_Project.pptx
+│
+├── Part-3-Machine-Learning/
+│
+├── Part-4-Excel/
+│
+└── Part-5-Power-BI/
 ```
 
-**Planned additions**
+*The filenames above are suggested examples. Adjust them to match the actual files you upload. Empty folders will not appear on GitHub until they contain files.*
 
-- SQL
-- Microsoft Excel
-- Power BI
-- Machine Learning
+## 🚀 How to Run the Project
 
-## 📂 Repository Guide
+### Part 1: EDA
 
-- **EDA-Part-1/** — Notebook and presentation for the Myntra exploratory data analysis.
-- **data/** — Original and cleaned datasets used in the analysis, where available.
-- **SQL-Part-2/** — Planned SQL analysis.
-- **Excel-Part-3/** — Planned spreadsheet-based analysis.
-- **Power-BI-Part-4/** — Planned dashboard development.
-- **Python-Part-5/** — Planned additional Python projects.
-- **Machine-Learning-Part-6/** — Planned machine learning experiments.
+1. Clone or download this repository.
+2. Install the required Python libraries:
 
-## 🔭 What's Next?
+   ```bash
+   pip install pandas numpy matplotlib seaborn jupyter
+   ```
 
-My next steps are to explore the dataset using SQL, answer business-oriented questions, perform additional analysis in Excel, and build an interactive Power BI dashboard.
+3. Open Jupyter Notebook:
 
-As I progress, I will update this repository with new notebooks, reports, visualizations, and project documentation.
+   ```bash
+   jupyter notebook
+   ```
 
-## 👩‍💻 About Me
+4. Navigate to `Part-1-EDA`.
+5. Open the EDA notebook and run the cells.
 
-I'm Krunali Pujari, an aspiring data analytics professional interested in Python, data visualization, SQL, and business insights.
+### Part 2: SQL Analysis
 
-I enjoy learning by working on practical projects and improving my ability to explain data findings clearly.
+1. Install MySQL and MySQL Workbench.
+2. Open the SQL script inside `Part-2-SQL`.
+3. Create or select the appropriate database.
+4. Import the prepared product dataset into the corresponding table.
+5. Execute the SQL queries.
+6. Review the query results and compare them with the documented findings.
 
-- **GitHub:** [Krunali23](https://github.com/Krunali23)
-- **Linkdin:** https://www.linkedin.com/in/krunali-pujari-ab6355343
+*The exact database name, table name, import steps, and SQL filename should match your actual script.*
+
+## 🔮 Future Enhancements
+
+- Complete and document the SQL analysis.
+- Apply suitable machine learning techniques to product data.
+- Expand the analysis using Excel.
+- Develop an interactive Power BI dashboard.
+- Combine findings from each stage into a comprehensive project report.
+- Improve project documentation with query outputs, charts, and business recommendations.
+
+## 👩‍💻 Author
+
+**Krunali Pujari**
+
+- GitHub: [Krunali23](https://github.com/Krunali23)
+- LinkedIn: [Krunali Pujari](https://www.linkedin.com/in/krunali-pujari-ab6355343/)
 
 ---
 
-*Learning through data. Growing through projects. Turning analysis into insights.*
+⭐ If you find this project useful, feel free to explore the repository and follow its progress as additional stages are completed.
