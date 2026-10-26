@@ -1,4 +1,4 @@
-# Part 2: SQL Analysis
+# SQL-Part-2/ Analysis
 
 ## Overview
 
